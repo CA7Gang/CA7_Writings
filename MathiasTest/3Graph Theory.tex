@@ -1,7 +1,7 @@
 \section{Graph Theory}
 This sections aims to describe the concept of Graph Theory using 
 \subsection{The incident matrix}
-When using graph theory as an analytical tool the incident matrix $H$ comes in handy when describing the connection between edges and nodes. The rules shown below is been used as guidelines when writing up the incident matrix for a graph network. 
+When using graph theory as an analytical tool the incident matrix $H$ comes in handy when describing the connection between edges and nodes. The rules shown below has been used as guidelines when writing up the incident matrix for a graph network. 
 
 \begin{equation*}
 H_{i,j} = \begin{cases}
@@ -35,8 +35,14 @@ The reduced incident matrix by taking an arbitrary vertex as a reference, and re
 \end{bmatrix}
 \end{equation}
 
+\subsection{The loop matrix}
+
+The loop-matrix can be calculated in one of two ways. The first one is shown in the equation below
+
 \begin{equation}
     B = \begin{bmatrix}
 I & -\bar{H}_{C}^{T}\cdot\bar{H}_{T}^{-T}
 \end{bmatrix}
 \end{equation}
+
+With $H_{c}$ and $H_{T}$ being the cord and tree component of the reduced incident matrix.
