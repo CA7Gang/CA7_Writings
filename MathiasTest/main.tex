@@ -4,6 +4,12 @@
 \usepackage{amsmath}
 \usepackage{siunitx}
 
+\usepackage{hyperref}
+\usepackage[style=numeric-comp,sorting=none,hyperref=true,backend=biber]{biblatex}
+\addbibresource{CA7Projekt.bib}
+
+\usepackage{cleveref}
+
 \begin{document}
 
 \input{00Titlepage}
@@ -16,13 +22,17 @@
 \newpage
 
 \input{30GraphTheory}
+\newpage
+
 \input{40ComponentModel}
-\input{41LekageDetection}
+\newpage
+
+\input{41LeakageDetection}
 \input{60Results}
 \input{70Discussion}
 \input{80FutureWork}
 \input{90conclusion}
 
-
+\printbibliography
 
 \end{document}
