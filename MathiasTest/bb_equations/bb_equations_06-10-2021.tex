@@ -1,0 +1,119 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{siunitx}
+
+\usepackage{hyperref}
+\usepackage[style=numeric-comp,sorting=none,hyperref=true,backend=biber]{biblatex}
+
+\usepackage{cleveref}
+
+\begin{document}
+	
+	\subsubsection{Pipe model V2}
+	
+	Surface resistance:
+	
+	\begin{equation}
+		R_f = f_m \cdot \frac{8 \cdot L \cdot \rho}{\pi^2 \cdot D^5}
+	\end{equation}
+	
+	Form resistance
+	
+	\begin{equation}
+		R_f = k_f \cdot \frac{8 \cdot \rho}{\pi^2 \cdot D^4}
+	\end{equation}
+	
+	
+	\begin{equation}
+		\lambda (\dot q) = (R_f + R_m) \cdot |q| \cdot q
+	\end{equation}
+
+
+\subsubsection{Valve model}
+
+The relationship between pressure difference and flow is the same for all flows and pressure differences:
+\begin{equation}
+	\frac{\Delta p_1}{q_1^2} = \frac{\Delta p_2}{q_2^2}
+\end{equation}
+
+Isolating one flow:
+\begin{equation}
+	q_1 = q_2 \cdot \sqrt{\frac{\Delta p_1}{\Delta p_2}}
+\end{equation}
+
+There will be a flow $q_2$ where the pressure drop will be equal to one and thus:
+\begin{equation}
+	q_1 = q_2 \cdot \sqrt{\Delta p_1}
+\end{equation}
+
+Writing this up for all flows
+\begin{equation}
+	q = k_v(OD) \cdot \sqrt{\Delta p}
+\end{equation}
+
+Isolating the pressure difference:
+\begin{equation}
+	\Delta p = \frac{1}{k_v(OD)} \cdot q^2 = \frac{1}{k_v(OD)} \cdot |q| \cdot q
+\end{equation}
+
+\begin{center}
+	\begin{tabular}{l p{8cm} l}
+		$h_v(OD)$ & Constant dependent on valve opening degree (OD) \\
+	\end{tabular}
+\end{center}
+
+
+\subsubsection{Tank model}
+The pressure in the bottom of the tank is proportional to the level of the tank:
+\begin{equation}
+	P_{v4} \propto h_{tank}
+\end{equation}
+
+\begin{center}
+	\begin{tabular}{l p{8cm} l}
+		$h_{tank}$ & is the level in the tank & [\si{m}]\\
+	\end{tabular}
+\end{center}
+
+The following is true if the tank cross-sectional area (A) is constant
+\begin{equation}
+	\dot V_{\tau} = d_{\tau}
+\end{equation}
+
+As such the follow is true
+\begin{equation}
+		\dot V_{\tau} \propto h_{tank} \propto d_{\tau}
+\end{equation}
+
+And thus
+\begin{equation}
+	\dot p_{v4} \propto d_t
+\end{equation}
+
+Which leads us to
+\begin{equation}
+	\dot p_{v4} = -\tau \cdot d_t
+\end{equation}
+
+
+\subsubsection{Pump model}
+
+The full pump model:
+\begin{equation}
+	\Delta p = a_2 \cdot q^2 - a_1 \cdot q - a_0 \cdot q \cdot \omega^2
+\end{equation}
+
+\begin{center}
+	\begin{tabular}{l p{8cm} l}
+		$a_0 - a_2$ & are constants obtained from measurements of the pump \\
+	\end{tabular}
+\end{center}
+
+We disregard the ??? and thus end up with:
+\begin{equation}
+	\Delta p = a_2 \cdot q^2 - a_0 \cdot q \cdot \omega^2
+\end{equation}
+
+\end{document}
