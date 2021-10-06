@@ -1,9 +1,11 @@
-\section{Graph Theory}
-This section describe the interconnected components in the water distributed network (WDN) using a concept called Graph Theory.
+\section{System modelling }
+This section describes the interconnected component in a water distributed network (WDN) using Graph Theory. Furthermore thee component classes will be examined, ie. pipes, pumps and valves.
 
-\subsection{The incident matrix}
+
+\subsection{Graph Theory}
 When using graph theory as an analytical tool the incident matrix $H$ comes in handy when describing the connection between edges and nodes. The rules shown below has been used as guidelines when writing up the incident matrix for a graph network. 
 
+\subsubsection{The Incident Matrix}
 \begin{equation*}
 H_{i,j} = \begin{cases}
     -1 & \text{If the $j^{th}$ edge enters the $i^{th}$ node} \\
@@ -19,7 +21,7 @@ H_{i,j} = \begin{cases}
 	\label{fig:graph}
 \end{figure}
 
-When applying the rules shown above for the simplified graph model of the WDN the incident matrix in \eqref{eq:H_simplified}.
+When applying the rules shown above for the simplified graph model of the WDN the incident matrix in \cref{eq:H_simplified}.
 \begin{equation}
     H = \begin{bmatrix}
 1 & 0 & 1 & 0 & 0 & 0 & 0\\
@@ -32,7 +34,7 @@ When applying the rules shown above for the simplified graph model of the WDN th
 \label{eq:H_simplified}
 \end{equation} %The incident matrix for system
 
-The reduced incident matrix by taking an arbitrary vertex as a reference, and removing that vertex-row from \eqref{eq:H_simplified}. We chose the $4^{th}$ vertex, which results in the following reduced incident matrix:
+The reduced incident matrix by taking an arbitrary vertex as a reference, and removing that vertex-row from \cref{eq:H_simplified}. We chose the $4^{th}$ vertex, which results in the following reduced incident matrix:
 \begin{equation}
     \bar{H} = \begin{bmatrix}
 1 & 0 & 1 & 0 & 0 & 0 & 0\\
@@ -43,8 +45,16 @@ The reduced incident matrix by taking an arbitrary vertex as a reference, and re
 \end{bmatrix}
 \end{equation}
 
-\subsection{The loop matrix}
+Chords and edges of the spanning tree
 
+\begin{equation*} 
+	\begin{split}
+E_{C} &= \{e_{1},e_{4}\}   \\ E_{T} &= \{e_2,e_3,e_5,e_6,e_7\}
+	\end{split}
+\end{equation*}
+
+
+\subsubsection{The Loop Marix}
 The loop-matrix can be calculated in one of two ways. The first one is shown in the equation below
 
 \begin{equation}
@@ -53,4 +63,13 @@ I & -\bar{H}_{C}^{T}\cdot\bar{H}_{T}^{-T}
 \end{bmatrix}
 \end{equation}
 
-With $H_{c}$ and $H_{T}$ being the cord and tree component of the reduced incident matrix.
+With $H_{c}$ and $H_{T}$ being the cord and tree component of the reduced incident matrix. The result of loop matrix is shown below.
+
+\begin{equation}
+	B = \begin{bmatrix}
+		1 & 0 & 1 & -1 & -1 & 1 & 1\\
+		0 & 1 & 0 & 0 & -1 & 1 & 1\\
+		\end{bmatrix}
+\end{equation}
+
+The other method is more graphical but can be formulated as follows: JEG KAN IKKE HUSKE REGLEN.

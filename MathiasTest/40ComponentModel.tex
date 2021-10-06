@@ -1,4 +1,4 @@
-\section{Component model}
+\subsection{Component model}
 All components (eg. pipes, valves and pumps) can be described by two variables, namely the flow through the component and the differential pressure across the component:
 \begin{equation}
 \begin{bmatrix} \Delta{p_{k}} \\ q_{k} \end{bmatrix} = 
@@ -7,7 +7,7 @@ All components (eg. pipes, valves and pumps) can be described by two variables, 
 
 The following section will examine these two variables for pipes, valves and pumps.
 
-\subsection{Pipe model}
+\subsubsection{Pipe model}
 The differential pressure across a pipe can be modelled as follows:
 \begin{equation}
     \mathrm{\Delta{p_{k}}} = J_{k}\cdot\dot{q_{k}}+\mathrm{\lambda_{k}}(q_{k})-\mathrm{\Delta{z_{k}}}
@@ -48,7 +48,7 @@ The causes of flow friction $\mathrm{\lambda_{k}}(q_{k})$ are surface resistance
 
 \begin{center}
 	\begin{tabular}{l p{8cm} l}
-		$h_{f}$ & is the total loss from surface resistance & [\si{m}]\\
+		$h_{f}$ & is the head loss from surface resistance & [\si{m}]\\
 		$f$ & is the pipe friction factor & [$\cdot$]\\
 		$D$ & is the pipe diameter & [\si{m}]\\
 		$g$ & is the gravitational constant & [\si{m}/\si{s\squared}]\\
@@ -73,6 +73,7 @@ The form resistance can be given by the following:
 
 \begin{center}
 	\begin{tabular}{l p{8cm} l}
+		$h_{m}$ & is the head loss from form resistances & [\si{m}]\\
 		$k_{f}$ &  is coefficient form loss & [$\cdot$]\\
 	\end{tabular}
 \end{center}
@@ -92,20 +93,25 @@ Having explained all the components of \eqref{eq:Delta_p_pipe} a complete expres
 	p = \rho \cdot g \cdot h  
 \end{equation}
 
+Meaning that the head losses can be expresses in terms of pressure by the following:
+
 \begin{equation}
-	\Delta{p_{k}} = \frac{L\cdot \rho}{A}\cdot \dot{q_{k}}+\Big(f \cdot \frac{8\cdot L\cdot q^{2}}{\pi^{2}\cdot g \cdot D^{5}} + k_{f}\cdot \frac{8\cdot q^{2}}{\pi^{2}\cdot g \cdot D^{4}}\Big) - \rho \cdot g \cdot \Delta{h_{k}}
+\mathrm{\lambda_{k}}(q_{k})  =	\Big(f \cdot \frac{8\cdot L\cdot q^{2}}{\pi^{2}\cdot g \cdot D^{5}} + k_{f}\cdot \frac{8\cdot q^{2}}{\pi^{2}\cdot g \cdot D^{4}}\Big)\cdot g \cdot \rho
 \end{equation}
-\begin{center}$\Updownarrow$\end{center}
+
+Inserting and reducing into \cref{eq:Delta_p_pipe}
+
 \begin{equation}
 	\Delta{p_{k}} = \frac{L\cdot \rho}{A}\cdot \dot{q_{k}}
 	+\Big(f \cdot \frac{8\cdot L\cdot \rho}{\pi^{2} \cdot D^{5}} + k_{f}\cdot \frac{8\cdot \rho}{\pi^{2} \cdot D^{4}}\Big)\cdot |q_{k}|\cdot q_{k} 
 	- \rho \cdot g \cdot \Delta{h_{k}}
 \end{equation}
 
-Where the absolute value is applied to the squared ﬂow term, $q^{2}$, to maintain the ﬂow sign, i.e. the ﬂow direction.
+The absolute value of one of the flow component in $q^{2}$ is taken to preserve the flow direction.
 
-\subsection{Valve model}
+
+\subsubsection{Valve model}
 Something about the valve model
 
-\subsection{Pump model}
+\subsubsection{Pump model}
 Something about the pump model
