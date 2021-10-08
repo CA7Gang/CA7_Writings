@@ -1,0 +1,89 @@
+\section{System model}
+Recalling the system can be modelled as a stacked system of k-components:
+\begin{equation} \label{StackedModel}
+	\Delta{p} = J\cdot \dot{q} + \lambda(q)+\mu(q,OD)-\alpha(q,\omega)-\rho\cdot g \cdot \Delta z
+\end{equation}
+
+Multiplying both sides of \cref{StackedModel} by $B$ and recalling that KVL states that 
+\begin{equation*}
+\begin{split}
+		B\cdot q = 0 \\ 
+	B\cdot \Delta Z =0
+\end{split}
+\end{equation*}
+which yields:
+\begin{equation}
+	0 = B\cdot J \dot{q} + B\cdot \lambda(q)+B \cdot \mu(q,OD) - B\cdot \alpha(q,\omega) -0 
+\end{equation}
+Isolating $B\cdot J \cdot \dot{q}$ on the left hand side and simultaneously factor out $B$ from the right hand side: 
+\begin{equation} \label{Bfactored}
+	B\cdot J \dot{q} = -B \Big(\lambda(q)+\mu(q,OD) -\cdot \alpha(q,\omega)\Big)
+\end{equation}
+Now recalling that:
+\begin{equation} \label{qidentity}
+	\dot{q}=B^T \cdot \dot{q}_{c}+\begin{bmatrix} 
+	
+		0\\ 
+		\bar{H}^{-1}
+	\end{bmatrix}
+\cdot \begin{bmatrix}
+	\bar{F}_{f}^{T}\cdot \dot{\bar{d_{f}}} & \bar{G}_{\tau}^{T}\cdot \dot{\bar{d_{\tau}}} 
+\end{bmatrix}
+\end{equation}
+Now inserting \cref{qidentity} in \cref{Bfactored}:
+\begin{equation}
+	B \cdot J \cdot \Big(B^T \cdot \dot{q}_{c}+\begin{bmatrix} 
+		0\\ 
+		\bar{H}^{-1}
+	\end{bmatrix}
+	\cdot \begin{bmatrix}
+		\bar{F}_{f}^{T}\cdot \dot{\bar{d_{f}}} & \bar{G}_{\tau}^{T}\cdot \dot{\bar{d_{\tau}}}\end{bmatrix} \Big) = -B \Big(\lambda(q)+\mu(q,OD) - \alpha(q,\omega)\Big)		
+\end{equation}
+factoring in $B\cdot J$
+
+\begin{equation}
+BJB^T \dot{q}_c +B\cdot J\cdot \begin{bmatrix} 
+	0\\ 
+	\bar{H}^{-1}
+\end{bmatrix}
+\cdot \begin{bmatrix}
+	\bar{F}_{f}^{T}\cdot \dot{\bar{d_{f}}} & \bar{G}_{\tau}^{T}\cdot \dot{\bar{d_{\tau}}}\end{bmatrix}
+ = -B \Big(\lambda(q)+\mu(q,OD) - \alpha(q,\omega)\Big)
+\end{equation}
+
+$J$ Can be split into Chords and edges partitions:
+\begin{equation*}
+	J = \begin{bmatrix}
+		J_c & 0\\
+		0 & J_T
+	\end{bmatrix}
+\end{equation*} 
+and remembering that the loop matrix $B$ was defined as shown in \cref{Bmatrix}
+
+\begin{equation*}
+	BJB^T \dot{q}_c + \begin{bmatrix}
+		I & -\bar{H}_{C}^{T}\cdot\bar{H}_{T}^{-T}
+	\end{bmatrix}\cdot \begin{bmatrix}
+		J_c & 0\\
+		0 & J_T
+	\end{bmatrix}\cdot \begin{bmatrix} 
+		0\\ 
+		\bar{H}^{-1}
+	\end{bmatrix}
+	\cdot \begin{bmatrix}
+		\bar{F}_{f}^{T}\cdot \dot{\bar{d_{f}}} & \bar{G}_{\tau}^{T}\cdot \dot{\bar{d_{\tau}}}\end{bmatrix}
+	= -B \Big(\lambda(q)+\mu(q,OD) - \alpha(q,\omega)\Big)
+\end{equation*}
+This is now expanded to get
+\begin{equation}
+		BJB^T \dot{q}_c - \bar{H}_C^T \bar{H}_T^{-T}J_T\bar{H}_T^{-1}[\bar{F}_f^T\dot{\bar{d}}_f+\bar{G}_\tau^T\dot{\bar{d}}_\tau]
+	= -B \Big(\lambda(q)+\mu(q,OD) - \alpha(q,\omega)\Big)
+\end{equation}
+This is again expanded to
+\begin{equation}
+	BJB^T \dot{q}_c - \bar{H}_C^T \bar{H}_T^{-T}J_T\bar{H}_T^{-1}\bar{F}_f^T\dot{\bar{d}}_f-\bar{H}_C^T \bar{H}_T^{-T}J_T\bar{H}_T^{-1}\bar{G}_\tau^T\dot{\bar{d}}_\tau
+	= -B \Big(\lambda(q)+\mu(q,OD) - \alpha(q,\omega)\Big)
+\end{equation}
+
+
+
