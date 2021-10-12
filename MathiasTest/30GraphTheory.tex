@@ -1,11 +1,8 @@
-\section{System modelling }
 This section describes the interconnected component in a water distributed network (WDN) using Graph Theory. Furthermore thee component classes will be examined, ie. pipes, pumps and valves.
 
-
-\subsection{Graph Theory}
 When using graph theory as an analytical tool the incident matrix $H$ comes in handy when describing the connection between edges and nodes. The rules shown below has been used as guidelines when writing up the incident matrix for a graph network. 
 
-\subsubsection{The Incident Matrix}
+\subsubsection{The Incidence Matrix}
 \begin{equation*}
 	H_{i,j} = \begin{cases}
 		-1 & \text{If the $j^{th}$ edge enters the $i^{th}$ node} \\
@@ -17,14 +14,12 @@ When using graph theory as an analytical tool the incident matrix $H$ comes in h
 \subsubsection{The Loop Marix}
 The loop-matrix can be calculated in one of two ways. The first one is shown in the equation below
 
-\begin{equation} \label{Bmatrix}
+\begin{equation} \label{eq:LoopMatrix}
 	B = \begin{bmatrix}
 		I & -\bar{H}_{C}^{T}\cdot\bar{H}_{T}^{-T}
 	\end{bmatrix}
 \end{equation}
 
-
-The other method is more graphical but can be formulated as follows: JEG KAN IKKE HUSKE REGLEN.
 
 \newpage
 \subsection{Simplified system}

@@ -2,9 +2,14 @@
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
 \usepackage{siunitx}
 \setcounter{MaxMatrixCols}{20} %Set max column to 20
 \usepackage{hyperref}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{corollary}{Corollary}[theorem]
+\newtheorem{lemma}[theorem]{Lemma}
 \usepackage[style=numeric-comp,sorting=none,hyperref=true,backend=biber]{biblatex}
 \addbibresource{CA7Projekt.bib}
 \usepackage[a4paper, total={6in, 8in}]{geometry}
@@ -22,13 +27,15 @@
 \input{20Introduction}
 \newpage
 
+\section{Graph Theory}\label{sec:GraphTheory}
 \input{30GraphTheory}
 \newpage
 
 \input{40ComponentModel}
 \newpage
 
-\input{41SystemModel}
+\section{System Model}\label{sec:SysModel}
+\input{41SystemModel_Revised}
 \newpage
 
 \input{42LeakageDetection}
