@@ -43,19 +43,19 @@ Isolating one flow:
 	q_1 = q_2 \cdot \sqrt{\frac{\Delta p_1}{\Delta p_2}}
 \end{equation}
 
-There will be a flow $q_2$ where the pressure drop will be equal to one and thus:
+There will be a flow $q_2$ where the pressure drop ($\Delta p_2)$ will be equal to one and thus:
 \begin{equation}
 	q_1 = q_2 \cdot \sqrt{\Delta p_1}
 \end{equation}
 
-Writing this up for all flows
+Writing this up more generally:
 \begin{equation}
 	q = k_v(OD) \cdot \sqrt{\Delta p}
 \end{equation}
 
 Isolating the pressure difference:
 \begin{equation}
-	\Delta p = \frac{1}{k_v(OD)} \cdot q^2 = \frac{1}{k_v(OD)} \cdot |q| \cdot q
+	\Delta p_{valve} = \frac{1}{k_v(OD)} \cdot q^2 <> \Delta p_{valve} = \frac{1}{k_v(OD)} \cdot |q| \cdot q
 \end{equation}
 
 \begin{center}
@@ -102,7 +102,7 @@ Which leads us to
 
 The full pump model:
 \begin{equation}
-	\Delta p = a_2 \cdot q^2 - a_1 \cdot q - a_0 \cdot q \cdot \omega^2
+	\Delta p_{pump}  = \alpha(q, a) = a_2 \cdot q^2 - a_1 \cdot q - a_0 \cdot q \cdot \omega^2
 \end{equation}
 
 \begin{center}
@@ -113,7 +113,7 @@ The full pump model:
 
 We disregard the ??? and thus end up with:
 \begin{equation}
-	\Delta p = a_2 \cdot q^2 - a_0 \cdot q \cdot \omega^2
+	\Delta p_{pump}  = \alpha(q, a) = a_2 \cdot q^2 - a_0 \cdot q \cdot \omega^2
 \end{equation}
 
 \end{document}
