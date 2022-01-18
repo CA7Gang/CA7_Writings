@@ -1,0 +1,124 @@
+\subsection{Slow dynamics}
+
+\begin{frame}{Modelling of Water Distribution Network}{Slow dynamics}
+	\begin{columns}
+		\begin{column}{.5\textwidth}
+			\begin{itemize}
+				\item Fundamentals
+				\begin{equation*}
+					p \propto h 
+				\end{equation*}
+				\begin{equation*}
+					\dot{V} = q
+				\end{equation*}
+				\item Assume constant cross sectional area A
+				\begin{equation*}
+					V \propto h \implies V \propto p 
+				\end{equation*}
+				\begin{equation*}
+					\dot{p} \propto \dot{V} \wedge \dot{V} = q \implies \dot{p} \propto q
+				\end{equation*}
+				\item We arrive at
+				\begin{equation*}
+					\dot{p} = -\tau q \text{,  where}
+				\end{equation*}	
+				\begin{equation*}
+					\tau = \rho g \frac{1}{A}
+				\end{equation*}	
+			\end{itemize}
+		\end{column}
+		\begin{column}{.5\textwidth}\raggedleft
+			\includegraphics[width=1\linewidth]{Topics/SlowDynamicsLinearisation/Graphics/Tank_sketch.png}
+		\end{column}
+	\end{columns}
+\end{frame}
+
+\begin{frame}{Modelling of Water Distribution Network}{State space formulation of slow dynamics}
+	\begin{figure}[h!]
+		\centering
+		\resizebox{\columnwidth}{!}{
+			\input{Topics/SlowDynamicsLinearisation/TikzFigures/TikzGraphNetwork.tex}}
+		\label{fig:tikzWDNGraph}
+	\end{figure}  
+	In context of WDN we now consider flows to and from network as external demands $ d_i $
+\end{frame}
+
+\begin{frame}{Modelling of Water Distribution Network}{State space formulation of slow dynamics}
+	Mass conservation holds, and such
+	\begin{equation*}
+		d_n = -\sum_{i=1}^{n-1}d_i \implies d_\tau = - (d_p + d_c)
+	\end{equation*}
+	\begin{equation*}
+		\dot{p} = -\tau d_\tau = \tau (d_p + d_c)
+	\end{equation*}	
+	When discretised by forward Euler:
+	\begin{equation*}
+		p_\tau(k+1) = p_\tau(k) - \tau d_\tau(k) t_s = p_\tau(k) + \tau(d_p(k) + d_c(k)) t_s
+	\end{equation*}
+	Which corresponds to a discrete, linear state-space model:
+	\begin{equation}
+		p_\tau(k+1) = Ap_\tau(k) + B_pd_p(k) + B_cd_c(k)
+	\end{equation}
+	\begin{equation*}
+		d_p = \begin{bmatrix}
+			d_1 \\ d_{13}
+		\end{bmatrix},
+		d_c = \begin{bmatrix}
+			d_5 \\ d_9
+		\end{bmatrix},
+		B_p = B_c = t_s  \begin{bmatrix}
+			\tau & \tau
+		\end{bmatrix},
+		A = 1
+	\end{equation*}
+\end{frame}
+
+
+\subsection{Linearisation}
+\begin{frame}{Modelling of Water Distribution Networks}{Linearisation}
+	Fast dynamics are non linear - linearisation is needed.\\
+	In near vicinity of linearisation point $ x_0 $,
+	\begin{equation*}
+		\dot{x} \approx f(x_0) + \nabla f\bigg\rvert_{x_0} (x-x_0)
+	\end{equation*}
+	Recalling the fast dynamics differential equation is given as
+	\begin{equation}\label{eq:NonLinearModelSimplified}
+		\begin{split}
+			\dot{q}_n &=  -\mathcal{P}\Phi\Big(\lambda(q_n)+\mu(q_n,\Theta)+\alpha(q_n,\omega)\Big) +\\ &\mathcal{P}\Big(\Psi(\bar{h}-\mathbf{1}h_0) + \mathcal{I}(p_{\tau}-\mathbf{1}p_0)\Big) \\
+		\end{split}	
+	\end{equation}
+	The linear model such becomes
+	\begin{equation}\label{eq:SymbolicLinearisation}
+		\begin{split}
+			\dot{q}_n &\approx f(x_0) + \frac{\partial f}{\partial q_n}\bigg\rvert_{x_0} \tilde{q}_n + \frac{\partial f}{\partial \Theta}\bigg\rvert_{x_0} \tilde{\Theta} + \frac{\partial f}{\partial \omega}\bigg\rvert_{x_0} \tilde{\omega} +  \frac{\partial f}{\partial p_\tau}\bigg\rvert_{x_0} \tilde{p}_\tau
+			\\
+		\end{split}
+	\end{equation}
+	where $x_0 = \{q_0,\Theta_0,\omega_0, p_{\tau_0} \}$, $ \tilde{q} =q-q_0$, likewise for $ \tilde{\Theta} $, $ \tilde{\omega}$, $\tilde{p_{\tau}}  $
+\end{frame}
+
+\begin{frame}{Modelling of Water Distribution Networks}{Linearisation}
+	The full linearised model is then obtained as
+	\begin{equation}\label{eq:SymbolicLinearisationExpanded}
+		\begin{split}
+			\dot{q}_n \approx f(x_0) -\mathcal{P}\Phi & \Bigg(a_1\omega_0 + \Big(|q_0|+\text{sign}(q_0)q_0\Big)\\
+			& \Bigg(K_\lambda + a_2 + \frac{1}{(K_v \Theta_0)^2}\Bigg) \tilde{q}_n \Bigg)  \\
+			- \mathcal{P}\Phi&\Bigg(\Big(-|q_0|q_0 \frac{2}{K_v^2 \Theta_0^3}\Big) \tilde{\Theta}\Bigg) \\
+			- \mathcal{P}\Phi&\Bigg(\Big(a_1 q_0 + 2a_0\omega_0\Big) \tilde{\omega}\Bigg) \\
+			+ \mathcal{P} \mathcal{I}& \tilde{p}_\tau
+		\end{split}
+	\end{equation}
+The equation can be simplified further making some assumptions
+\end{frame}
+
+\begin{frame}{Modelling of Water Distribution Networks}{Linearisation}
+	Equilibrium disappears, valve and tank dynamics assumed to be constant disturbances 
+	\begin{equation}\label{eq:SymbolicLinearisationSimplified}
+		\begin{split}
+			\dot{q}_n \approx -\mathcal{P}\Phi &\Bigg(a_1\omega_0 + \Big(|q_0|+\text{sign}(q_0)q_0\Big) \\
+			&\Bigg(K_\lambda + a_2 + \frac{1}{(K_v \Theta_0)^2}\Bigg) \tilde{q}_n \Bigg) \\
+			- \mathcal{P}\Phi&\Bigg(\Big(a_1 q_0 + 2a_0\omega_0\Big) \tilde{\omega}\Bigg)
+		\end{split}
+	\end{equation}
+	
+\end{frame}
