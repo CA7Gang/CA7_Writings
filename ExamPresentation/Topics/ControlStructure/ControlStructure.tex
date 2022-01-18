@@ -1,0 +1,60 @@
+
+\begin{frame}{Control Structure}
+	We elect for a cascaded control structure with optimal central control and local PI control.
+	\begin{figure}[h!]
+		\centering
+		\resizebox{\columnwidth}{!}{
+			\input{Topics/ControlStructure/TikzFigures/TikzControlStructure}}
+		\label{fig:tikzControlStrat}
+	\end{figure}
+\end{frame}
+
+\begin{frame}{Control Structure}{The Root Locus Method}
+	The root locus method needs a transfer function.\\
+	Investigate decentralised control.\\
+	\begin{figure}[h]
+		\centering
+		\includegraphics[height=5cm,width=0.5\linewidth]{Topics/ControlStructure/Graphics/PumpMagPlot.png}
+		\label{fig:PumpMagPlot}
+	\end{figure}
+\end{frame}
+
+\begin{frame}{Control Structure}{The Root Locus Method}
+	Model order reduction.\\
+	Padé approximation of delay.\\
+	\begin{figure}[h]
+		\centering
+		\includegraphics[height=5cm,width=0.5\linewidth]{Topics/ControlStructure/Graphics/PZmap_CL_zoom.png}
+		\label{fig:PZmap_CL_zoom}
+	\end{figure}
+\end{frame}
+
+\begin{frame}{Control Structure}{Control Requirements}
+	Stability.\\
+	Faster than outer loop.\\
+	\hspace{0.3cm} - Bandwidth of $0.1 \frac{rad}{s}$ \\
+	No steady state error.\\
+	No overshoot, and low amount of oscillation.\\
+\end{frame}
+
+\begin{frame}{Control Structure}{Root Locus and Resulting Controller}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[height=4.8cm,width=0.48\linewidth]{Topics/ControlStructure/Graphics/RootLocus_Pade2.png}
+		\label{fig:RootLocus}
+	\end{figure}
+	Results in controller transfer function:
+	\begin{equation}\label{eq:PIDTransferFunction}
+		C(s) = \frac{K_ps+K_i}{s} = \frac{1.8s+0.225}{s}
+	\end{equation}
+\end{frame}
+
+
+\begin{frame}{Control Structure}{Step Response}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[height=6cm,width=0.6\linewidth]{Topics/ControlStructure/Graphics/StepResponse_Pade2.png}
+		\label{fig:StepResponse_Pade2.png}
+	\end{figure}
+
+\end{frame}
