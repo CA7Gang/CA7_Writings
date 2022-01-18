@@ -1,0 +1,267 @@
+\documentclass[10pt]{beamer}
+\usetheme[
+%%% options passed to the outer theme
+%    hidetitle,           % hide the (short) title in the sidebar
+%    hideauthor,          % hide the (short) author in the sidebar
+%    hideinstitute,       % hide the (short) institute in the bottom of the sidebar
+%    shownavsym,          % show the navigation symbols
+%    width=2cm,           % width of the sidebar (default is 2 cm)
+%    hideothersubsections,% hide all subsections but the subsections in the current section
+%    hideallsubsections,  % hide all subsections
+left               % right of left position of sidebar (default is right)
+%%% options passed to the color theme
+%    lightheaderbg,       % use a light header background
+]{AAUsidebar}
+
+% If you want to change the colors of the various elements in the theme, edit and uncomment the following lines
+% Change the bar and sidebar colors:
+%\setbeamercolor{AAUsidebar}{fg=red!20,bg=red}
+%\setbeamercolor{sidebar}{bg=red!20}
+% Change the color of the structural elements:
+%\setbeamercolor{structure}{fg=red}
+% Change the frame title text color:
+%\setbeamercolor{frametitle}{fg=blue}
+% Change the normal text color background:
+%\setbeamercolor{normal text}{bg=gray!10}
+% ... and you can of course change a lot more - see the beamer user manual.
+
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+% Or whatever. Note that the encoding and the font should match. If T1
+% does not look nice, try deleting the line with the fontenc.
+\usepackage{helvet}
+\usepackage{tikz}
+\usetikzlibrary{shapes,shapes.geometric, arrows,positioning,calc}
+\tikzset{
+	block/.style = {draw, fill=white, rectangle, minimum height=3em, minimum width=3em},
+	tmp/.style  = {coordinate}, 
+	sum/.style= {draw, fill=white, circle, node distance=1cm},
+	input/.style = {coordinate},
+	output/.style= {coordinate},
+	pinstyle/.style = {pin edge={to-,thin,black}
+	}
+}
+
+% colored hyperlinks
+\newcommand{\chref}[2]{%
+	\href{#1}{{\usebeamercolor[bg]{AAUsidebar}#2}}%
+}
+
+\title[Modelling and Networked Control of Water Distribution Networks]% optional, use only with long paper titles
+{Modelling and Networked Control of Water Distribution Networks}
+
+% \subtitle{}  % could also be a conference name
+
+\date{\today}
+
+\author[CA733] % optional, use only with lots of authors
+{
+	CA733
+}
+% - Give the names in the same order as they appear in the paper.
+% - Use the \inst{?} command only if the authors have different
+%   affiliation. See the beamer manual for an example
+
+\institute[
+%  {\includegraphics[scale=0.2]{aau_segl}}\\ %insert a company, department or university logo
+Control and Automation\\
+Aalborg University\\
+Denmark
+] % optional - is placed in the bottom of the sidebar on every slide
+{% is placed on the title page
+	Control and Automation, Group 733\\
+	Aalborg University\\
+	Denmark
+	
+	%there must be an empty line above this line - otherwise some unwanted space is added between the university and the country (I do not know why;( )
+}
+
+
+% specify a logo on the titlepage (you can specify additional logos an include them in 
+% institute command below
+\pgfdeclareimage[height=1.5cm]{titlepagelogo}{AAUgraphics/aau_logo_new} % placed on the title page
+%\pgfdeclareimage[height=1.5cm]{titlepagelogo2}{graphics/aau_logo_new} % placed on the title page
+\titlegraphic{% is placed on the bottom of the title page
+	\pgfuseimage{titlepagelogo}
+	%  \hspace{1cm}\pgfuseimage{titlepagelogo2}
+}
+
+
+\begin{document}
+% the titlepage
+{\aauwavesbg%
+	\begin{frame}[plain,noframenumbering] % the plain option removes the sidebar and header from the title page
+		\titlepage
+\end{frame}}
+%%%%%%%%%%%%%%%%
+
+% TOC
+\begin{frame}{Agenda}{}
+	\tableofcontents
+\end{frame}
+%%%%%%%%%%%%%%%%
+
+\section{General optimal control problem}
+% motivation for creating this theme
+\begin{frame}{General optimal control problem}
+	The basic structure of an optimal control problem is sketched in the language of calculus of variations.
+	\begin{align}
+		\dot{x} = &f(x,u,t) \label{eq:BasicOptimalFunction} \\ 
+		x(t_0) = x_0, \ &x \in \mathbb{R}^n, \ u \in U \in \mathbb{R}^m \label{eq:BasicOptimalDefinitions}
+	\end{align}
+	
+	where $t \in \mathbb{R}$ is the time and $x,u$ are functions of $t$, with $U$ the set of admissible controls. \\
+	\medskip
+	Cost functional:
+	\begin{equation}\label{eq:BolzaProblem}
+		J = \mathcal{M}(x(T)) + \int_{0}^{T} \mathcal{L}(x(t),u(t)) dt
+	\end{equation} 
+\end{frame}
+%%%%%%%%%%%%%%%%
+
+%\section{Linear-Quadratic Regulator}
+%\begin{frame}{Linear-Quadratic Regulator}
+% Let the dynamics of the (timevarying) system be given by:
+%	\begin{equation}
+%		\dot{x}(t) = A(t)x(t) + B(t)u(t) \label{eq:TimeVaryingLinearSystem}
+%	\end{equation}
+%
+%	Cost functional:
+%	\begin{equation}
+%		J = \int_{t_0}^{t_1} \mathcal{L}(x(t),u(t)) dt + x^T(t_1)\mathcal{M}x(t_1)
+%	\end{equation}
+%	
+%	Lagrangian:
+%	\begin{equation}\label{eq:LQRLagrangian}
+%		\mathcal{L}(x(t),u(t)) = x^T(t)Q(t)x(t) + u^T(t)R(t)u(t)
+%	\end{equation}
+%	
+%	\begin{itemize}
+%		\item Not time invariant!
+%	\end{itemize}
+%	
+%\end{frame}
+
+	%%%%%%%%%%%%%%%%
+\section{Infinite-Horizon Linear-Quadratic Regulator}
+\begin{frame}{Infinite-Horizon Linear-Quadratic Regulator}
+	The LQR timeinvariant case with no terminal cost.\\
+	System Dynamics:
+	\begin{equation}
+		\dot{x}(t) = Ax(t) + Bu(t) \label{eq:TimeInvariantLinearSystem}
+	\end{equation}
+
+	Cost functional:		
+	\begin{equation}\label{eq:LagrangeProblem}
+		J = \int_{t_0}^{\infty} \big(x^T(t)Qx(t) + u^T(t)Ru(t)\big)dt
+	\end{equation} 
+
+	State feedback control law:
+	\begin{equation}\label{eq:InfLQRFeedbackLaw}
+		u^*(t) = -R^{-1}B^TPx^*(t)
+	\end{equation}
+	
+	$P$ is time-invariant and fullfills the \textit{algebraic Riccati equation}:
+	
+	\begin{equation}\label{eq:ARE}
+		PA + A^TP + Q - PBR^{-1}B^TP = 0
+	\end{equation}
+\end{frame}
+
+	%%%%%%%%%%%%%%%%
+\section{Tracking LQR and Integral Action}
+\begin{frame}{Tracking LQR and Integral Action}{Tracking LQR}
+	 
+	
+	Let $\hat{x} = x-x_r$ and $\hat{u} = u-u_r$. Shifted coordinate system cost functional framed as an output tracking problem:
+	\begin{equation}\label{eq:LagrangeProblemOutput}
+		J = \int_{t_0}^{\infty} \big((C\hat{x})^TQ_y(C\hat{x}) + \hat{u}^TR\hat{u}\big)dt = \int_{t_0}^{\infty} \big(\hat{y}^TQ_y\hat{y} + \hat{u}^TR\hat{u}\big)dt
+	\end{equation} 
+\end{frame}
+
+
+\begin{frame}{Tracking LQR and Integral Action}{Integral Action}
+	States are extended with integral state $x_i$
+	\begin{align}\label{eq:ClassicalIntegralAction}
+		&u = -\bar{K}\bar{x} \\
+		&\dot{\bar{x}} = \bar{A}\bar{x} + \bar{B}u + B_r r \\ 
+		&y = \bar{C}\bar{x}\\
+		&\bar{A} = \begin{bmatrix}A & 0 \\ -C & 0 \end{bmatrix}, \ \bar{B} = \begin{bmatrix} B \\ 0 \end{bmatrix}, \ B_r = \begin{bmatrix} 0 \\ 1 \end{bmatrix}, \ \bar{C} = \begin{bmatrix} C & 0 \end{bmatrix}\\
+		& \bar{K} = -\begin{bmatrix} K & -K_i \end{bmatrix}
+	\end{align}
+
+	$K_i$ can be an awkward weight to choose.
+\end{frame}
+
+	%%%%%%%%%%%%%%%%
+\section{Velocity-Form LQR}
+\begin{frame}{Velocity-Form LQR}
+	Deviation variables:
+	\begin{equation}\label{eq:VelocityVariables}
+		\Delta x_k = x_k - x_{k-1}, \ \Delta y_k = y_k - r_k, \ \Delta u_k = u_k-u_{k-1}
+	\end{equation}
+	
+	Extended vectors and matrices:
+	\begin{equation} \label{eq1}
+		\begin{split}
+			& \tilde{\zeta}_k = \begin{bmatrix} \Delta x_k \\ \Delta y_k	\end{bmatrix}, \ \tilde{u}_k = \Delta u_k, \\
+			&\tilde{A} = \begin{bmatrix} A & 0 \\ CA & I	\end{bmatrix}, \ 
+			\tilde{B} = \begin{bmatrix} B \\ CB	\end{bmatrix}, \ \tilde{C} = \begin{bmatrix} 0 & I	\end{bmatrix}
+		\end{split}
+	\end{equation}
+
+	Cost functional:
+	\begin{equation}\label{eq:LagrangeProblemDeviation}
+		J = \sum_{k_0}^{\infty} \big(\tilde{\zeta}^TQ\tilde{\zeta} + \tilde{u}^TR\tilde{u}\big)
+	\end{equation}
+
+	Origin regulation! If $\tilde{\zeta} \rightarrow 0 \Rightarrow  \Delta y \rightarrow 0 \Rightarrow  y \rightarrow r$.
+\end{frame}
+
+%Velocity-form dynamics:
+%\begin{align}\label{eq:VelocityDynamics}
+%	&\tilde{\zeta}_{k+1} = \tilde{A} \tilde{\zeta}_{k}  + \tilde{B}\tilde{u}_k \\
+%	&\Delta y_k = \tilde{C}\tilde{x}_k
+%\end{align}
+
+\begin{frame}{Velocity-Form LQR}{Linearization}
+	If linearising around equilibrium point $x_e$ and corresponding operating point $u_{op}$
+		
+	\begin{equation}\label{eq:DeltaInterpretation}
+		\Delta \tilde{x} = x-x_e, \ \Delta \tilde{u} = u-u_{op}
+	\end{equation}
+
+	VF-LQR will penalize deviations from the point \{$x_e, u_{op}, r$\}!\\
+	\medskip	
+	Incremental feedback law:
+	\begin{equation}\label{eq:ControlIncrementLaw}
+		\Delta u^*(k) = -\Delta K(k) \Delta x(k) 
+	\end{equation}
+	
+	Control input applied at time k is:
+	\begin{equation}\label{eq:ActualControlApplied}
+		u^*(k) = \sum_{i=1}^{k} \Delta u^*(i)
+	\end{equation}
+
+	with
+	\begin{equation}
+		\tilde{K} = (\tilde{B}^TP\tilde{B}-R)^{-1}(\tilde{B}^TP\tilde{A})
+	\end{equation}
+\end{frame}
+
+
+\section{Exogenous input disturbance-accommodating LQR}
+\begin{frame}{Exogenous input disturbance-accommodating LQR}
+
+	Standard LQR does not accommodate exogenous inputs (such as the the model of the consumer demand flows) but can be modified to do so:
+	\begin{equation}
+		u(k) = \sum_{i=1}^{k} \Delta{u}^*(i) - B^\dagger \mathcal{B}\delta(i)
+	\end{equation}
+	
+	where $B^\dagger$ is the Moore-Penrose pseudoinverse of $B$ and $\mathcal{B}$ is the disturbance input matrix.
+\end{frame}
+
+	
+\end{document}

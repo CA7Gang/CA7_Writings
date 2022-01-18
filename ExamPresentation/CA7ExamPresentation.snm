@@ -1,0 +1,16 @@
+\beamer@slide {fig:WDNModel}{4}
+\beamer@slide {eq:BasicOptimalFunction}{5}
+\beamer@slide {eq:BasicOptimalDefinitions}{5}
+\beamer@slide {eq:BolzaProblem}{5}
+\beamer@slide {eq:TimeInvariantLinearSystem}{6}
+\beamer@slide {eq:LagrangeProblem}{6}
+\beamer@slide {eq:InfLQRFeedbackLaw}{6}
+\beamer@slide {eq:ARE}{6}
+\beamer@slide {eq:LagrangeProblemOutput}{7}
+\beamer@slide {eq:ClassicalIntegralAction}{8}
+\beamer@slide {eq:VelocityVariables}{9}
+\beamer@slide {eq1}{9}
+\beamer@slide {eq:LagrangeProblemDeviation}{9}
+\beamer@slide {eq:DeltaInterpretation}{10}
+\beamer@slide {eq:ControlIncrementLaw}{10}
+\beamer@slide {eq:ActualControlApplied}{10}
