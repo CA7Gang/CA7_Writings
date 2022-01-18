@@ -1,0 +1,46 @@
+\begin{frame}{Network Effects}
+	\begin{itemize}
+		\item Outer loop
+		\begin{itemize}
+			\item Central control unit
+			\item Transmit data
+		\end{itemize}
+		\item Urban environment
+		\begin{itemize}
+			\item Packet loss scaling with distance
+			\item $ 60\% $ or more expected at 20 km
+		\end{itemize}
+		\item Try-Once-Discard protocol used
+		\begin{itemize}
+			\item Packet loss -> 0 control input
+		\end{itemize}
+	\end{itemize}
+	\begin{figure}[h!]
+	\centering
+	\resizebox{0.9\columnwidth}{!}{
+		\input{Topics/NetworkEffects/TikzFigures/TikzControlStructure.tex}}
+	\label{fig:tikzControlStructure}
+\end{figure}
+\end{frame}
+
+\begin{frame}{ASdasdasd}
+	\begin{itemize}
+		\item Assuming $ 60\% $ as upper bound for loss, $ \alpha $, the condition for stability is:
+	\end{itemize}
+	\begin{equation}\label{eq:HuStabCondition}
+		\mathcal{S}\Big(\alpha A \otimes A + (1-\alpha)(A-BK) \otimes (A-BK) \Big) < 1
+	\end{equation}
+
+	\end{frame}	
+	
+\begin{frame}
+	\begin{itemize}
+		\item Upper stability bound for $A-BK$ given by reciprocal of largest positive eigenvalue of:
+	\end{itemize}
+	\begin{equation}\label{eq:VMatrix}
+	\begin{gathered}
+		\begin{bmatrix} (S\otimes\hat{S}+\hat{S} \otimes S)(I - S\otimes S)^{-1} & \hat{S}\otimes\hat{S} \\ (I - S\otimes S)^{-1} & 0 \end{bmatrix} \\
+		S = \left(A-BK\right) \otimes \left(A-BK\right), \quad \hat{S} = A \otimes A - S
+	\end{gathered}
+	\end{equation}
+\end{frame}	
