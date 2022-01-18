@@ -1,8 +1,10 @@
 \babel@toc {english}{}\relax 
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{General optimal control problem}{5}{0}{2}
-\beamer@sectionintoc {3}{Infinite-Horizon Linear-Quadratic Regulator}{6}{0}{3}
-\beamer@sectionintoc {4}{Tracking LQR and Integral Action}{7}{0}{4}
-\beamer@sectionintoc {5}{Velocity-Form LQR}{9}{0}{5}
-\beamer@sectionintoc {6}{Exogenous input disturbance-accommodating LQR}{11}{0}{6}
-\beamer@sectionintoc {7}{References}{12}{0}{7}
+\beamer@sectionintoc {2}{Modelling of WDN}{5}{0}{2}
+\beamer@sectionintoc {3}{Fast Dynamics and Graph theory}{6}{0}{3}
+\beamer@sectionintoc {4}{Slow Dynamics and Linearisation}{6}{0}{4}
+\beamer@subsectionintoc {4}{1}{Slow dynamics}{6}{0}{4}
+\beamer@subsectionintoc {4}{2}{Linearisation}{9}{0}{4}
+\beamer@sectionintoc {5}{Optimal Control}{12}{0}{5}
+\beamer@sectionintoc {6}{Disturbance Estimator}{19}{0}{6}
+\beamer@sectionintoc {7}{References}{26}{0}{7}

@@ -1,19 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.15)  18 JAN 2022 11:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.29)  18 JAN 2022 12:41
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **./CA7ExamPresentation.tex
 (CA7ExamPresentation.tex
 LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-10-18>
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamer.cls
+L3 programming layer <2021-08-27>
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
 Document Class: beamer 2021/10/18 v3.64 A class for typesetting presentations
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasemodes.sty
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoo
-lbox/etoolbox.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemode
+s.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count182
 )
@@ -21,8 +17,8 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \beamer@tempcount=\count183
 \c@beamerpauses=\count184
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasedecode.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasedeco
+de.sty
 \beamer@slideinframe=\count185
 \beamer@minimum=\count186
 \beamer@decode@box=\box51
@@ -30,12 +26,10 @@ er/beamerbasedecode.sty
 \beamer@commentbox=\box52
 \beamer@modecount=\count187
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/if
-tex/ifpdf.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/if
-tex/iftex.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \headdp=\dimen138
@@ -82,22 +76,18 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \beamer@toclastsection=\count272
 \beamer@tocsectionnumber=\count273
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbaseoptions.sty
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
-hics/keyval.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseopti
+ons.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 ))
 \beamer@paperwidth=\skip48
 \beamer@paperheight=\skip49
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geom
-etry/geometry.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/if
-tex/ifvtex.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count274
@@ -113,72 +103,66 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen161
 \Gm@dimlist=\toks17
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geom
-etry/geometry.cfg))
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
-/size10.clo
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+)) (C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pg
-fcore.sty
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
-hics/graphicx.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcor
+e.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
-hics/graphics.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
-
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
-hics/trig.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
-hics-cfg/graphics.cfg
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
-hics-def/pdftex.def
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen162
 \Gin@req@width=\dimen163
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/systemlayer/p
-gfsys.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgf
-rcs.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gfutil-common.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsy
+s.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.
+sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-common.tex
 \pgfutil@everybye=\toks18
 \pgfutil@tempdima=\dimen164
 \pgfutil@tempdimb=\dimen165
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gfutil-common-lists.tex))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gfutil-latex.def
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-common-lists.tex))
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-latex.def
 \pgfutil@abb=\box59
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gfrcs.code.tex
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revisio
-n.tex)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrc
+s.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.te
+x)
 Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer
-/pgfsys.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gfkeys.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+ys.code.tex
 \pgfkeys@pathtoks=\toks19
 \pgfkeys@temptoks=\toks20
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gfkeysfiltered.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+ysfiltered.code.tex
 \pgfkeys@tmptoks=\toks21
 ))
 \pgf@x=\dimen166
@@ -202,35 +186,35 @@ gfkeysfiltered.code.tex
 \t@pgf@tokc=\toks24
 \pgf@sys@id@count=\count281
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer
-/pgf.cfg
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer
-/pgfsys-pdftex.def
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-pdftex.def
 File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer
-/pgfsys-common-pdf.def
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-common-pdf.def
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer
-/pgfsyssoftpath.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+syssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfsyssoftpath@smallbuffer@items=\count282
 \pgfsyssoftpath@bigbuffer@items=\count283
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer
-/pgfsysprotocol.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
-hics-cfg/color.cfg
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -244,18 +228,18 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcore.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+ore.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-h.code.tex
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hcalc.code.tex
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hutil.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hparser.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
+de.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcal
+c.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathuti
+l.code.tex)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpar
+ser.code.tex
 \pgfmath@dimen=\dimen176
 \pgfmath@count=\count284
 \pgfmath@box=\box60
@@ -263,32 +247,32 @@ hparser.code.tex
 \pgfmath@stack@operand=\toks26
 \pgfmath@stack@operation=\toks27
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.code.tex
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.basic.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.trigonometric.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.random.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.comparison.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.base.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.round.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.misc.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.integerarithmetics.code.tex)))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfloat.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.basic.code.tex)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.trigonometric.code.tex)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.random.code.tex)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.comparison.code.tex)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.base.code.tex)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.round.code.tex)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.misc.code.tex)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.integerarithmetics.code.tex)))
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathflo
+at.code.tex
 \c@pgfmathroundto@lastzeros=\count285
 ))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfint
-.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorepoints.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.cod
+e.tex)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepoints.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@picminx=\dimen177
 \pgf@picmaxx=\dimen178
@@ -305,174 +289,166 @@ File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@zx=\dimen189
 \pgf@zy=\dimen190
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorepathconstruct.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@path@lastx=\dimen191
 \pgf@path@lasty=\dimen192
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorepathusage.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathusage.code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@shorten@end@additional=\dimen193
 \pgf@shorten@start@additional=\dimen194
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorescopes.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orescopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box61
 \pgf@hbox=\box62
 \pgf@layerbox@main=\box63
 \pgf@picture@serial@count=\count286
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcoregraphicstate.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgflinewidth=\dimen195
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcoretransformations.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@pt@x=\dimen196
 \pgf@pt@y=\dimen197
 \pgf@pt@temp=\dimen198
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorequick.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orequick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcoreobjects.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreobjects.code.tex
 File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorepathprocessing.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorearrows.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orearrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfarrowsep=\dimen199
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcoreshade.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen256
 \pgf@sys@shading@range@num=\count287
 \pgf@shadingcount=\count288
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcoreimage.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcoreexternal.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreexternal.code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfexternal@startupbox=\box64
 ))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorelayers.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orelayers.code.tex
 File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcoretransparency.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransparency.code.tex
 File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorepatterns.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepatterns.code.tex
 File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorerdf.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orerdf.code.tex
 File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/xxc
-olor.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor
+.sty
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count289
 \XC@countmixins=\count290
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
-/atbegshi-ltx.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hype
-rref/hyperref.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/lt
-xcmds/ltxcmds.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pd
-ftexcmds/pdftexcmds.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/in
-fwarerr/infwarerr.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kv
-setkeys/kvsetkeys.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys
+.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kv
-definekeys/kvdefinekeys.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pd
-fescape/pdfescape.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
+.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyco
-lor/hycolor.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/letl
-txmacro/letltxmacro.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmac
+ro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxh
-ook/auxhook.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvop
-tions/kvoptions.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen257
 \Hy@linkcounter=\count291
 \Hy@pagecounter=\count292
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hype
-rref/pd1enc.def
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hype
-rref/hyperref-langpatches.def
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-lan
+gpatches.def
 File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
 nguages
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/in
-tcalc/intcalc.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/et
-excmds/etexcmds.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.s
+ty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count293
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hype
-rref/puenc.def
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -489,20 +465,18 @@ Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
 Package hyperref Info: Bookmarks ON on input line 4445.
 \c@Hy@tempcnt=\count294
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/
-url.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen258
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bi
-tset/bitset.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bi
-gintcalc/bigintcalc.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
+lc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -526,12 +500,11 @@ Package hyperref Message: Stopped early.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hype
-rref/hpdftex.def
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
-/atveryend-ltx.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.st
+y
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
@@ -539,29 +512,27 @@ with kernel methods
 \Fld@listcount=\count297
 \c@bookmark@seq@number=\count298
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/reru
-nfilecheck/rerunfilecheck.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
+ilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/un
-iquecounter/uniquecounter.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
+ecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 ))
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbaserequires.sty
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasecompatibility.sty)
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasefont.sty
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsf
-onts/amssymb.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaserequ
+ires.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecomp
+atibility.sty)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefont
+.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsf
-onts/amsfonts.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks28
 \symAMSa=\mathgroup4
@@ -570,51 +541,51 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/sans
-mathaccent/sansmathaccent.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\sansma
+thaccent.sty
 Package: sansmathaccent 2020/01/31
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma
--script/scrlfile.sty
-Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.
+sty
+Package: scrlfile 2021/06/25 v3.34 KOMA-Script package (file load hooks)
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma
--script/scrlfile-hook-3.34.sty
-Package: scrlfile-hook-3.34 2021/11/13 v3.35 KOMA-Script package (using LaTeX h
-ooks)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-
+hook.sty
+Package: scrlfile-hook 2021/06/25 v3.34 KOMA-Script package (using LaTeX hooks)
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma
--script/scrlogo.sty
-Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.s
+ty
+Package: scrlogo 2021/06/25 v3.34 KOMA-Script package (logo)
 )))))
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasetranslator.sty
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tran
-slator/translator.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetran
+slator.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 ))
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasemisc.sty)
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasetwoscreens.sty)
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbaseoverlay.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemisc
+.sty)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetwos
+creens.sty)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseover
+lay.sty
 \beamer@argscount=\count299
 \beamer@lastskipcover=\skip50
 \beamer@trivlistdepth=\count300
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasetitle.sty)
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasesection.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetitl
+e.sty)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasesect
+ion.sty
 \c@lecture=\count301
 \c@part=\count302
 \c@section=\count303
 \c@subsection=\count304
 \c@subsubsection=\count305
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbaseframe.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+e.sty
 \beamer@framebox=\box65
 \beamer@frametitlebox=\box66
 \beamer@zoombox=\box67
@@ -630,38 +601,38 @@ er/beamerbaseframe.sty
 \framewidth=\dimen262
 \c@framenumber=\count309
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbaseverbatim.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseverb
+atim.sty
 \beamer@verbatimfileout=\write4
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbaseframesize.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+esize.sty
 \beamer@splitbox=\box68
 \beamer@autobreakcount=\count310
 \beamer@autobreaklastheight=\dimen263
 \beamer@frametitletoks=\toks30
 \beamer@framesubtitletoks=\toks31
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbaseframecomponents.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
+ecomponents.sty
 \beamer@footins=\box69
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasecolor.sty)
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasenotes.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecolo
+r.sty)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenote
+s.sty
 \beamer@frameboxcopy=\box70
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasetoc.sty)
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasetemplates.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetoc.
+sty)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetemp
+lates.sty
 \beamer@sbttoks=\toks32
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbaseauxtemplates.sty
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbaseboxes.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseauxt
+emplates.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseboxe
+s.sty
 \bmb@box=\box71
 \bmb@colorbox=\box72
 \bmb@boxwidth=\dimen264
@@ -674,10 +645,9 @@ er/beamerbaseboxes.sty
 )
 \beamer@blockheadheight=\dimen271
 ))
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbaselocalstructure.sty
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
-s/enumerate.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseloca
+lstructure.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks33
 )
@@ -687,36 +657,30 @@ Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \abovecaptionskip=\skip56
 \belowcaptionskip=\skip57
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasenavigation.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenavi
+gation.sty
 \beamer@section@min@dim=\dimen272
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasetheorems.sty
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsm
-ath/amsmath.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetheo
+rems.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2021/04/20 v2.17j AMS math features
 \@mathmargin=\skip58
 
 For additional information on amsmath, use the `?' option.
-
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsm
-ath/amstext.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsm
-ath/amsgen.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks34
 \ex@=\dimen273
 ))
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsm
-ath/amsbsy.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen274
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsm
-ath/amsopn.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count313
@@ -757,8 +721,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsc
-ls/amsthm.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks39
 \thm@bodyfont=\toks40
@@ -772,75 +735,74 @@ Package: amsthm 2020/05/29 v2.20.6
 )
 \c@theorem=\count325
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerbasethemes.sty))
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerthemedefault.sty
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerfontthemedefault.sty)
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamercolorthemedefault.sty)
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerinnerthemedefault.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethem
+es.sty))
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedef
+ault.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthem
+edefault.sty)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
+medefault.sty)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthe
+medefault.sty
 \beamer@dima=\dimen282
 \beamer@dimb=\dimen283
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beam
-er/beamerouterthemedefault.sty))) (beamerthemeAAUsidebar.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthe
+medefault.sty))) (beamerthemeAAUsidebar.sty
 Package: beamerthemeAAUsidebar 2014/09/13 The AAU Sidebar Beamer Theme
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/frontendlayer
-/tikz.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pg
-f.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tik
+z.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.st
+y
 Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgf
-moduleshapes.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+leshapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodeparttextbox=\box75
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgf
-moduleplot.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+leplot.code.tex
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility
-/pgfcomp-version-0-65.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
+comp-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@nodesepstart=\dimen284
 \pgf@nodesepend=\dimen285
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility
-/pgfcomp-version-1-18.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
+comp-version-1-18.sty
 Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgf
-for.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgf
-keys.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gfkeys.code.tex))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.
 sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-h.code.tex))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gffor.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys
+.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+ys.code.tex))
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
+de.tex))
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffo
+r.code.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-h.code.tex)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
+de.tex)
 \pgffor@iter=\dimen286
 \pgffor@skip=\dimen287
 \pgffor@stack=\toks45
 \pgffor@toks=\toks46
 ))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/tikz.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz\tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/p
-gflibraryplothandlers.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@plot@mark@count=\count326
 \pgfplotmarksize=\dimen288
@@ -862,8 +824,8 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikznumberofcurrentchild=\count329
 \tikz@fig@count=\count330
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgf
-modulematrix.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+lematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfmatrixcurrentrow=\count331
 \pgfmatrixcurrentcolumn=\count332
@@ -871,16 +833,15 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 \tikz@expandcount=\count334
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/libraries/tikzlibrarytopaths.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/frontendlayer
-/libraries/tikzlibraryexternal.code.tex
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/libraries/tikzexternalshared.code.tex))
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
-s/calc.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer/lib
+raries\tikzlibraryexternal.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzexternalshared.code.tex))
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count335
 \calc@Bcount=\count336
@@ -892,7 +853,8 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count337
 \calc@Cskip=\skip66
-) (beamerinnerthemeAAUsidebar.sty
+)
+(beamerinnerthemeAAUsidebar.sty
 Package: beamerinnerthemeAAUsidebar 2014/09/13 The AAU Sidebar Beamer Theme
 \beamer@plainpagewidth=\skip67
 ) (beamerouterthemeAAUsidebar.sty
@@ -904,35 +866,35 @@ Package: beamerouterthemeAAUsidebar 2014/09/13 The AAU Sidebar Beamer Theme
 (beamercolorthemeAAUsidebar.sty
 Package: beamercolorthemeAAUsidebar 2014/09/13 The AAU Sidebar Beamer Theme
 ))
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
-/inputenc.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks47
 \inpenc@posthook=\toks48
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ba
-bel/babel.sty
-Package: babel 2021/10/19 3.65 The Babel package
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/07/22 3.63 The Babel package
+
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/07/22 3.63 Babel common definitions
 \babel@savecnt=\count338
 \U@D=\dimen299
 \l@unhyphenated=\language79
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ba
-bel/txtbabel.def)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read3
-LaTeX Info: Redefining \textlatin on input line 3942.
+)
+LaTeX Info: Redefining \textlatin on input line 730.
 \bbl@dirlevel=\count339
 
 *************************************
 * Local config file bblopts.cfg used
 *
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/eng
-lish.ldf
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english
+.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -941,60 +903,58 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
 ))
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
-/fontenc.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnf
-ss/helvet.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/libraries/tikzlibraryshapes.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.code.tex
 File: tikzlibraryshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.geometric.code.tex
 File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/s
-hapes/pgflibraryshapes.geometric.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.geometric.code.tex
 File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/libraries/tikzlibraryshapes.misc.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.misc.code.tex
 File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/s
-hapes/pgflibraryshapes.misc.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.misc.code.tex
 File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/libraries/tikzlibraryshapes.symbols.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.symbols.code.tex
 File: tikzlibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/s
-hapes/pgflibraryshapes.symbols.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.symbols.code.tex
 File: pgflibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/libraries/tikzlibraryshapes.arrows.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.arrows.code.tex
 File: tikzlibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/s
-hapes/pgflibraryshapes.arrows.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.arrows.code.tex
 File: pgflibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/libraries/tikzlibraryshapes.callouts.code.tex
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/s
-hapes/pgflibraryshapes.callouts.code.tex))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/libraries/tikzlibraryshapes.multipart.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.callouts.code.tex))
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.multipart.code.tex
 File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/s
-hapes/pgflibraryshapes.multipart.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodepartlowerbox=\box80
 \pgfnodeparttwobox=\box81
@@ -1017,33 +977,32 @@ File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodepartsixbox=\box98
 \pgfnodepartfivebox=\box99
 )))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/libraries/tikzlibraryarrows.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryarrows.code.tex
 File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/p
-gflibraryarrows.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryarrows.code.tex
 File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \arrowsize=\dimen300
 ))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/libraries/tikzlibrarypositioning.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/libraries/tikzlibrarycalc.code.tex
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 LaTeX Font Info:    Trying to load font information for T1+phv on input line 92
 .
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnf
-ss/t1phv.fd
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3ba
-ckend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count340
 \l__pdf_internal_box=\box100
 ) (CA7ExamPresentation.aux)
@@ -1103,8 +1062,8 @@ LaTeX Font Info:    ... okay on input line 92.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/context/ba
-se/mkii/supp-pdf.mkii
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count341
 \scratchdimen=\dimen301
@@ -1118,12 +1077,11 @@ se/mkii/supp-pdf.mkii
 \makeMPintoPDFobject=\count346
 \everyMPtoPDFconversion=\toks50
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epst
-opdf-pkg/epstopdf-base.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grfe
-xt/grfext.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
 Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1133,22 +1091,20 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00mi
-ktex/epstopdf-sys.cfg
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
+.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 92.
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hype
-rref/nameref.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refc
-ount/refcount.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ge
-ttitlestring/gettitlestring.sty
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
+itlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count347
@@ -1156,8 +1112,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 92.
 LaTeX Info: Redefining \pageref on input line 92.
 LaTeX Info: Redefining \nameref on input line 92.
- (CA7ExamPresentation.out)
-(CA7ExamPresentation.out)
+ (CA7ExamPresentation.out) (CA7ExamPresentation.out)
 \@outlinefile=\write5
 \openout5 = `CA7ExamPresentation.out'.
 
@@ -1204,31 +1159,31 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 92.
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tran
-slator/translator-basic-dictionary-English.dict
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tran
-slator/translator-bibliography-dictionary-English.dict
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-bibliography-dictionary-English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tran
-slator/translator-environment-dictionary-English.dict
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-environment-dictionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tran
-slator/translator-months-dictionary-English.dict
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-months-dictionary-English.dict
 Dictionary: translator-months-dictionary, Language: English 
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tran
-slator/translator-numbers-dictionary-English.dict
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-numbers-dictionary-English.dict
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tran
-slator/translator-theorem-dictionary-English.dict
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
+-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (CA7ExamPresentation.nav)
-<AAUgraphics/aau_logo_new_circle.pdf, id=41, 79.29625pt x 80.3pt>
+<AAUgraphics/aau_logo_new_circle.pdf, id=49, 79.29625pt x 80.3pt>
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
@@ -1237,15 +1192,13 @@ e 92.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 97.
 
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsf
-onts/umsa.fd
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 97.
 
 
-(/Users/martin/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsf
-onts/umsb.fd
+(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
@@ -1254,16 +1207,17 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 97.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 97.
-<AAUgraphics/aau_waves.pdf, id=42, 845.1575pt x 598.235pt>
+<AAUgraphics/aau_waves.pdf, id=50, 845.1575pt x 598.235pt>
 File: AAUgraphics/aau_waves.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_waves.pdf>
 Package pdftex.def Info: AAUgraphics/aau_waves.pdf  used on input line 97.
 (pdftex.def)             Requested size: 364.1973pt x 273.1467pt.
- [1
 
-{/Users/martin/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/
-pdftex.map} <./AAUgraphics/aau_waves.pdf, page is rotated 270 degrees> <./AAUgr
-aphics/aau_logo_new.pdf>] (CA7ExamPresentation.toc)
+[1
+
+{C:/Users/Mathias/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./AAUgraphics
+/aau_waves.pdf, page is rotated 270 degrees> <./AAUgraphics/aau_logo_new.pdf>] 
+(CA7ExamPresentation.toc)
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 103.
 
@@ -1310,9 +1264,9 @@ e 103.
 
  <./AAUgraphics/aau_logo_new_circle.pdf>]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 119.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 121.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 119.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 121.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
@@ -1351,15 +1305,15 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 119.
+e 121.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
 [3
 
 ]
-<Graphics/WDNModel.pdf, id=98, 573.34201pt x 524.35902pt>
+<Graphics/WDNModel.pdf, id=112, 573.34201pt x 524.35902pt>
 File: Graphics/WDNModel.pdf Graphic file (type pdf)
 <use Graphics/WDNModel.pdf>
-Package pdftex.def Info: Graphics/WDNModel.pdf  used on input line 134.
+Package pdftex.def Info: Graphics/WDNModel.pdf  used on input line 136.
 (pdftex.def)             Requested size: 139.41856pt x 127.50494pt.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -1399,11 +1353,11 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 134.
+e 136.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
 [4
 
- <./Graphics/WDNModel.pdf>] (Topics/OptimalControl/OptimalControl.tex
+ <./Graphics/WDNModel.pdf>]
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
@@ -1441,11 +1395,20 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 17.
+e 146.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
 [5
 
-]
+] (Topics/SlowDynamicsLinearisation/SlowDynamicsLinearisation.tex
+<Topics/SlowDynamicsLinearisation/Graphics/Tank_sketch.png, id=152, 691.98524pt
+ x 545.6385pt>
+File: Topics/SlowDynamicsLinearisation/Graphics/Tank_sketch.png Graphic file (t
+ype png)
+<use Topics/SlowDynamicsLinearisation/Graphics/Tank_sketch.png>
+Package pdftex.def Info: Topics/SlowDynamicsLinearisation/Graphics/Tank_sketch.
+png  used on input line 34.
+(pdftex.def)             Requested size: 139.41856pt x 109.93336pt.
+
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
@@ -1483,11 +1446,12 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 67.
+e 34.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
 [6
 
-]
+ <./Topics/SlowDynamicsLinearisation/Graphics/Tank_sketch.png>]
+(Topics/SlowDynamicsLinearisation/TikzFigures/TikzGraphNetwork.tex)
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
@@ -1525,7 +1489,7 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 78.
+e 44.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
 [7
 
@@ -1567,7 +1531,7 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 92.
+e 74.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
 [8
 
@@ -1609,7 +1573,7 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 117.
+e 98.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
 [9
 
@@ -1651,12 +1615,306 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 148.
+e 112.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
 [10
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 160--160
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 124.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[11
+
+]) (Topics/OptimalControl/OptimalControl.tex
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 16.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[12
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 64.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[13
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 74.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[14
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 88.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[15
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 112.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[16
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 143.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[17
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
 []\T1/phv/m/n/14.4 Exogenous in-put disturbance-
  []
 
@@ -1698,9 +1956,327 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 160.
+e 154.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[11
+[18
+
+]) (Topics/KalmanEstimator/KF.tex
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 9.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[19
+
+]
+<Topics/KalmanEstimator/Graphics/ConsumptionPattern.pdf, id=393, 358.33875pt x 
+304.13625pt>
+File: Topics/KalmanEstimator/Graphics/ConsumptionPattern.pdf Graphic file (type
+ pdf)
+<use Topics/KalmanEstimator/Graphics/ConsumptionPattern.pdf>
+Package pdftex.def Info: Topics/KalmanEstimator/Graphics/ConsumptionPattern.pdf
+  used on input line 21.
+(pdftex.def)             Requested size: 167.30397pt x 141.99733pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 21.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[20
+
+ <./Topics/KalmanEstimator/Graphics/ConsumptionPattern.pdf>]
+<Topics/KalmanEstimator/Graphics/FFT.pdf, id=430, 352.31625pt x 296.10625pt>
+File: Topics/KalmanEstimator/Graphics/FFT.pdf Graphic file (type pdf)
+<use Topics/KalmanEstimator/Graphics/FFT.pdf>
+Package pdftex.def Info: Topics/KalmanEstimator/Graphics/FFT.pdf  used on input
+ line 39.
+(pdftex.def)             Requested size: 167.30397pt x 140.61125pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 39.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[21
+
+ <./Topics/KalmanEstimator/Graphics/FFT.pdf>]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 65.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[22
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 105.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[23
+
+]
+<Topics/KalmanEstimator/Graphics/Comparisson.pdf, id=500, 366.36874pt x 304.136
+25pt>
+File: Topics/KalmanEstimator/Graphics/Comparisson.pdf Graphic file (type pdf)
+<use Topics/KalmanEstimator/Graphics/Comparisson.pdf>
+Package pdftex.def Info: Topics/KalmanEstimator/Graphics/Comparisson.pdf  used 
+on input line 121.
+(pdftex.def)             Requested size: 167.30397pt x 138.88805pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 121.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[24
+
+ <./Topics/KalmanEstimator/Graphics/Comparisson.pdf>]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 128.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[25
 
 ]) (CA7ExamPresentation.bbl)
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -1740,16 +2316,16 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 160.
+e 191.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[12
+[26
 
 ]
 File: AAUgraphics/aau_waves.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_waves.pdf>
-Package pdftex.def Info: AAUgraphics/aau_waves.pdf  used on input line 165.
+Package pdftex.def Info: AAUgraphics/aau_waves.pdf  used on input line 196.
 (pdftex.def)             Requested size: 364.1973pt x 273.1467pt.
- [13
+ [27
 
 ]
 \tf@nav=\write6
@@ -1763,36 +2339,35 @@ Package pdftex.def Info: AAUgraphics/aau_waves.pdf  used on input line 165.
 
  (CA7ExamPresentation.aux)
 Package rerunfilecheck Info: File `CA7ExamPresentation.out' has not changed.
-(rerunfilecheck)             Checksum: 014041B3921C4388F6525646B2C4611A;1290.
+(rerunfilecheck)             Checksum: DCD8A737DAB51DF42FED05B59BAA794F;1256.
  ) 
 Here is how much of TeX's memory you used:
- 28245 strings out of 478886
- 582899 string characters out of 2847450
- 897002 words of memory out of 3000000
- 45451 multiletter control sequences out of 15000+600000
- 448395 words of font info for 81 fonts, out of 8000000 for 9000
+ 28628 strings out of 478927
+ 586176 string characters out of 2851587
+ 922549 words of memory out of 3000000
+ 45746 multiletter control sequences out of 15000+600000
+ 456024 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,22n,124p,574b,1185s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/Users/martin/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dv
-ips/base/8r.enc}</Users/martin/Library/Application Support/MiKTeX/texmfs/instal
-l/fonts/type1/public/amsfonts/cm/cmex10.pfb></Users/martin/Library/Application 
-Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Users
-/martin/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/am
-sfonts/cm/cmss10.pfb></Users/martin/Library/Application Support/MiKTeX/texmfs/i
-nstall/fonts/type1/public/amsfonts/cm/cmss8.pfb></Users/martin/Library/Applicat
-ion Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></U
-sers/martin/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/publi
-c/amsfonts/cm/cmsy7.pfb></Users/martin/Library/Application Support/MiKTeX/texmf
-s/install/fonts/type1/public/amsfonts/cm/cmsy9.pfb></Users/martin/Library/Appli
-cation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msam10
-.pfb></Users/martin/Library/Application Support/MiKTeX/texmfs/install/fonts/typ
-e1/public/amsfonts/symbols/msbm10.pfb></Users/martin/Library/Application Suppor
-t/MiKTeX/texmfs/install/fonts/type1/urw/helvetic/uhvr8a.pfb></Users/martin/Libr
-ary/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/helvetic/uhvro8a.
-pfb>
-Output written on CA7ExamPresentation.pdf (13 pages, 240653 bytes).
+ 128i,22n,124p,575b,1188s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/Mathias/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<
+C:/Users/Mathias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mex10.pfb><C:/Users/Mathias/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmmi10.pfb><C:/Users/Mathias/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Mathias/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Mathias/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Mathias/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Mathia
+s/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Us
+ers/Mathias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.
+pfb><C:/Users/Mathias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/symbols/msam10.pfb><C:/Users/Mathias/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/symbols/msbm10.pfb><C:/Users/Mathias/AppData/Local/Programs/Mi
+KTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Mathias/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Mathias/AppData/Local/P
+rograms/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on CA7ExamPresentation.pdf (27 pages, 641030 bytes).
 PDF statistics:
- 310 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
- 119 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 648 PDF objects out of 1000 (max. 8388607)
+ 90 named destinations out of 1000 (max. 500000)
+ 155 words of extra memory for PDF output out of 10000 (max. 10000000)
 

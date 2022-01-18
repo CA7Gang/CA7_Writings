@@ -11,42 +11,74 @@
 \headcommand {\beamer@framepages {4}{4}}
 \headcommand {\beamer@sectionpages {3}{4}}
 \headcommand {\beamer@subsectionpages {3}{4}}
-\headcommand {\sectionentry {2}{General optimal control problem}{5}{General optimal control problem}{0}}
+\headcommand {\sectionentry {2}{Modelling of WDN}{5}{Modelling of WDN}{0}}
 \headcommand {\slideentry {2}{0}{1}{5/5}{}{0}}
 \headcommand {\beamer@framepages {5}{5}}
 \headcommand {\beamer@sectionpages {5}{5}}
 \headcommand {\beamer@subsectionpages {5}{5}}
-\headcommand {\sectionentry {3}{Infinite-Horizon Linear-Quadratic Regulator}{6}{Infinite-Horizon Linear-Quadratic Regulator}{0}}
-\headcommand {\slideentry {3}{0}{1}{6/6}{}{0}}
+\headcommand {\sectionentry {3}{Fast Dynamics and Graph theory}{6}{Fast Dynamics and Graph theory}{0}}
+\headcommand {\beamer@sectionpages {6}{5}}
+\headcommand {\beamer@subsectionpages {6}{5}}
+\headcommand {\sectionentry {4}{Slow Dynamics and Linearisation}{6}{Slow Dynamics and Linearisation}{0}}
+\headcommand {\beamer@subsectionpages {6}{5}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{6}{Slow dynamics}}
+\headcommand {\slideentry {4}{1}{1}{6/6}{Slow dynamics}{0}}
 \headcommand {\beamer@framepages {6}{6}}
-\headcommand {\beamer@sectionpages {6}{6}}
-\headcommand {\beamer@subsectionpages {6}{6}}
-\headcommand {\sectionentry {4}{Tracking LQR and Integral Action}{7}{Tracking LQR and Integral Action}{0}}
-\headcommand {\slideentry {4}{0}{1}{7/7}{}{0}}
+\headcommand {\slideentry {4}{1}{2}{7/7}{Slow dynamics}{0}}
 \headcommand {\beamer@framepages {7}{7}}
-\headcommand {\slideentry {4}{0}{2}{8/8}{}{0}}
+\headcommand {\slideentry {4}{1}{3}{8/8}{Slow dynamics}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\beamer@sectionpages {7}{8}}
-\headcommand {\beamer@subsectionpages {7}{8}}
-\headcommand {\sectionentry {5}{Velocity-Form LQR}{9}{Velocity-Form LQR}{0}}
-\headcommand {\slideentry {5}{0}{1}{9/9}{}{0}}
+\headcommand {\beamer@subsectionpages {6}{8}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{9}{Linearisation}}
+\headcommand {\slideentry {4}{2}{1}{9/9}{Linearisation}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\slideentry {5}{0}{2}{10/10}{}{0}}
+\headcommand {\slideentry {4}{2}{2}{10/10}{Linearisation}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\beamer@sectionpages {9}{10}}
-\headcommand {\beamer@subsectionpages {9}{10}}
-\headcommand {\sectionentry {6}{Exogenous input disturbance-accommodating LQR}{11}{Exogenous input disturbance-accommodating LQR}{0}}
-\headcommand {\slideentry {6}{0}{1}{11/11}{}{0}}
+\headcommand {\slideentry {4}{2}{3}{11/11}{Linearisation}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\beamer@sectionpages {11}{11}}
-\headcommand {\beamer@subsectionpages {11}{11}}
-\headcommand {\sectionentry {7}{References}{12}{References}{0}}
-\headcommand {\slideentry {7}{0}{1}{12/12}{}{0}}
+\headcommand {\beamer@sectionpages {6}{11}}
+\headcommand {\beamer@subsectionpages {9}{11}}
+\headcommand {\sectionentry {5}{Optimal Control}{12}{Optimal Control}{0}}
+\headcommand {\slideentry {5}{0}{1}{12/12}{}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\slideentry {7}{0}{2}{13/13}{}{0}}
+\headcommand {\slideentry {5}{0}{2}{13/13}{}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\beamer@partpages {1}{13}}
-\headcommand {\beamer@subsectionpages {12}{13}}
-\headcommand {\beamer@sectionpages {12}{13}}
-\headcommand {\beamer@documentpages {13}}
-\headcommand {\gdef \inserttotalframenumber {11}}
+\headcommand {\slideentry {5}{0}{3}{14/14}{}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {5}{0}{4}{15/15}{}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {5}{0}{5}{16/16}{}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {5}{0}{6}{17/17}{}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {5}{0}{7}{18/18}{}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\beamer@sectionpages {12}{18}}
+\headcommand {\beamer@subsectionpages {12}{18}}
+\headcommand {\sectionentry {6}{Disturbance Estimator}{19}{Disturbance Estimator}{0}}
+\headcommand {\slideentry {6}{0}{1}{19/19}{}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {6}{0}{2}{20/20}{}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {6}{0}{3}{21/21}{}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {6}{0}{4}{22/22}{}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {6}{0}{5}{23/23}{}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {6}{0}{6}{24/24}{}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {6}{0}{7}{25/25}{}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\beamer@sectionpages {19}{25}}
+\headcommand {\beamer@subsectionpages {19}{25}}
+\headcommand {\sectionentry {7}{References}{26}{References}{0}}
+\headcommand {\slideentry {7}{0}{1}{26/26}{}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\slideentry {7}{0}{2}{27/27}{}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\beamer@partpages {1}{27}}
+\headcommand {\beamer@subsectionpages {26}{27}}
+\headcommand {\beamer@sectionpages {26}{27}}
+\headcommand {\beamer@documentpages {27}}
+\headcommand {\gdef \inserttotalframenumber {25}}
