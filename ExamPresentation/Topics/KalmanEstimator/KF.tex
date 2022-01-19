@@ -1,45 +1,64 @@
-\begin{frame}
- \textbf{Objectives with the use of Kalman filte}
- \begin{itemize}
- 	\item VF-LQR controller needs an estimate of the consumer demand.
- 	\item The optimal estimator is the \textbf{Kalman Filter}.
- 	\item Recursively finds optimal Kalman gain.
- 	\item Kalman filter is also very interesting when from a leakage detection POV.  
- \end{itemize}
+\begin{frame}{Disturbance Estimation}
+	 \textbf{Objectives with the use of disturbance estimation}
+	 \begin{itemize}
+	 	\item VF-LQR controller needs an estimate of the consumer demand.
+	 	\item The optimal estimator is the \textbf{Kalman Filter}.
+	 \end{itemize}
 \end{frame}
 
-	\begin{frame}{Water consumption data}
-		\begin{itemize}
-			\item Data of consumption pattern over a 35 day period obtained by CSK.  
-		\end{itemize}
-			 \begin{figure}[h!]
+%%%%%%%%%%%%%%%%%
+
+\begin{frame}{The Kalman filter}
+ 	\begin{itemize}
+ 		\item Need a linear model of consumer for the Kalman Filter
+ 		\item Under normal circumstances the Kalman gain is found recursively.
+ 		\item In the case of linear time invariant system, with covariances assumed to be constant over time, the Kalman Filter itself becomes time invariant $\rightarrow$ constant Kalman gain.\\
+ 		ARE:
+ 		\begin{equation}
+ 			\begin{split}\label{eq:ss_kalman_udledning4}
+ 				&\Pi = {A} (\Pi^{-1} + {C}^T {R}^{-1} {C})^{-1} {A}^T + {Q}\\
+ 				& K = \Pi {C}^T ({C} \Pi {C}^T + {R})^{-1}
+ 			\end{split}
+ 		\end{equation}
+ 		\item Kalman filter is also very interesting from a leakage detection POV.
+ 	\end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%
+
+\begin{frame}{Water consumption data}
+	\begin{itemize}
+		\item Data of consumption pattern over a 35 day period obtained by CSK.  
+	\end{itemize}
+		 \begin{figure}[h!]
 			\centering
 			\includegraphics[width=0.6\textwidth]{Topics/KalmanEstimator/Graphics/ConsumptionPattern.pdf}
 			\caption{Consumption pattern over two days}
 			\label{fig:Consumption_Pattern}
 		\end{figure}
-	\end{frame}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%
 	
-	\begin{frame}{FFT of consumption pattern}
-		\begin{itemize}
-			\item Frequency analysis of the data. 
-		\end{itemize}
+\begin{frame}{FFT of consumption pattern}
+	\begin{itemize}
+		\item Frequency analysis of the data. 
+	\end{itemize}
 	
-		 \begin{figure}[h!]
-			\centering
-			\includegraphics[width=0.6\textwidth]{Topics/KalmanEstimator/Graphics/FFT.pdf}
-			\caption{Consumption pattern over two days}
-			\label{fig:FFT_Consumption_Patter}
-		\end{figure}
+	 \begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.6\textwidth]{Topics/KalmanEstimator/Graphics/FFT.pdf}
+		\caption{Consumption pattern over two days}
+		\label{fig:FFT_Consumption_Patter}
+	\end{figure}
 	
 	\begin{itemize}
 		\item Highest frequency contents at periods: DC, 24.05h, 12.03h, 8.02h and 5.99h. 
 	\end{itemize}
-
-	\end{frame}
+\end{frame}
 
 %%%%%%%%%%%%%%%%%
-	\begin{frame}{Approximation of consumption}
+\begin{frame}{Approximation of consumption}
 		
 	\begin{itemize}
 		\item Fourth order Fourier approximation of consumer demand:
@@ -56,14 +75,16 @@
 		\item We wish to model \ref{eq:4th_order_approx} as a state space model:
 	\end{itemize}
 		
-			\begin{equation*}
-			\begin{split}
-				\dot{x}=Ax\\
-				y=Cx
-			\end{split}
+		\begin{equation*}
+		\begin{split}
+			\dot{x}=Ax\\
+			y=Cx
+		\end{split}
 		\end{equation*}	
-	\end{frame}
+\end{frame}
+
 %%%%%%%%%%%%%%%%%%%%%%%
+
 \begin{frame}{State space representation}
 	\begin{itemize}
 		\item Need to represent the evolution of the "states" in the approximation as a linear combination of states.
@@ -104,11 +125,12 @@
 \end{itemize}
 \end{frame}
 
-%%%%%%%%%%
-	\begin{frame}{Model vs. data}
-\begin{itemize}
-		\item The model compared to the real data - shown over 2 days. 
-\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}{Model vs. data}
+	\begin{itemize}
+			\item The model compared to the real data - shown over 2 days. 
+	\end{itemize}
 		\begin{figure}[h!]
 			\centering
 			\includegraphics[width=0.6\textwidth]{Topics/KalmanEstimator/Graphics/Comparisson.pdf}
@@ -118,11 +140,15 @@
 	\begin{itemize}
 		\item The model follows the visual trend in real data.
 	\end{itemize}	
-	\end{frame}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{frame}{The Kalman Filter}
 	\textbf{Considerations when designing the KF.}
 	\begin{itemize}
-		\item Stiffness of the filter
+		\item in practice the Kalman gain is found using lqr in matlab.
+		\item Stiffness of the filter is decided by Q-R ratio.
+		\item Big R means uncertainty concerning observation and that we trust model much $\rightarrow$ stiff filter.
 	\end{itemize}
 \end{frame}
