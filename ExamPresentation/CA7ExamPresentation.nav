@@ -38,116 +38,118 @@
 \headcommand {\beamer@framepages {15}{15}}
 \headcommand {\slideentry {2}{1}{12}{16/16}{Fast Dynamics and Graph theory}{0}}
 \headcommand {\beamer@framepages {16}{16}}
-\headcommand {\beamer@subsectionpages {5}{16}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{17}{Slow Dynamics and Linearisation}}
-\headcommand {\beamer@subsubsectionentry {0}{2}{2}{1}{17}{Slow Dynamics}}
-\headcommand {\slideentry {2}{2}{1}{17/17}{Slow Dynamics and Linearisation}{0}}
+\headcommand {\slideentry {2}{1}{13}{17/17}{Fast Dynamics and Graph theory}{0}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\slideentry {2}{2}{2}{18/18}{Slow Dynamics and Linearisation}{0}}
+\headcommand {\beamer@subsectionpages {5}{17}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{18}{Slow Dynamics and Linearisation}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{2}{1}{18}{Slow Dynamics}}
+\headcommand {\slideentry {2}{2}{1}{18/18}{Slow Dynamics and Linearisation}{0}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\slideentry {2}{2}{3}{19/19}{Slow Dynamics and Linearisation}{0}}
+\headcommand {\slideentry {2}{2}{2}{19/19}{Slow Dynamics and Linearisation}{0}}
 \headcommand {\beamer@framepages {19}{19}}
-\headcommand {\beamer@subsubsectionentry {0}{2}{2}{2}{20}{Linearisation}}
-\headcommand {\slideentry {2}{2}{4}{20/20}{Slow Dynamics and Linearisation}{0}}
+\headcommand {\slideentry {2}{2}{3}{20/20}{Slow Dynamics and Linearisation}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\slideentry {2}{2}{5}{21/21}{Slow Dynamics and Linearisation}{0}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{2}{2}{21}{Linearisation}}
+\headcommand {\slideentry {2}{2}{4}{21/21}{Slow Dynamics and Linearisation}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\slideentry {2}{2}{6}{22/22}{Slow Dynamics and Linearisation}{0}}
+\headcommand {\slideentry {2}{2}{5}{22/22}{Slow Dynamics and Linearisation}{0}}
 \headcommand {\beamer@framepages {22}{22}}
-\headcommand {\slideentry {2}{2}{7}{23/23}{Slow Dynamics and Linearisation}{0}}
+\headcommand {\slideentry {2}{2}{6}{23/23}{Slow Dynamics and Linearisation}{0}}
 \headcommand {\beamer@framepages {23}{23}}
-\headcommand {\beamer@sectionpages {5}{23}}
-\headcommand {\beamer@subsectionpages {17}{23}}
-\headcommand {\sectionentry {3}{Control Structure and Root Locus}{24}{Control Structure and Root Locus}{0}}
-\headcommand {\slideentry {3}{0}{1}{24/24}{}{0}}
+\headcommand {\slideentry {2}{2}{7}{24/24}{Slow Dynamics and Linearisation}{0}}
 \headcommand {\beamer@framepages {24}{24}}
-\headcommand {\slideentry {3}{0}{2}{25/25}{}{0}}
+\headcommand {\beamer@sectionpages {5}{24}}
+\headcommand {\beamer@subsectionpages {18}{24}}
+\headcommand {\sectionentry {3}{Control Structure and Root Locus}{25}{Control Structure and Root Locus}{0}}
+\headcommand {\slideentry {3}{0}{1}{25/25}{}{0}}
 \headcommand {\beamer@framepages {25}{25}}
-\headcommand {\slideentry {3}{0}{3}{26/26}{}{0}}
+\headcommand {\slideentry {3}{0}{2}{26/26}{}{0}}
 \headcommand {\beamer@framepages {26}{26}}
-\headcommand {\slideentry {3}{0}{4}{27/27}{}{0}}
+\headcommand {\slideentry {3}{0}{3}{27/27}{}{0}}
 \headcommand {\beamer@framepages {27}{27}}
-\headcommand {\slideentry {3}{0}{5}{28/28}{}{0}}
+\headcommand {\slideentry {3}{0}{4}{28/28}{}{0}}
 \headcommand {\beamer@framepages {28}{28}}
-\headcommand {\beamer@sectionpages {24}{28}}
-\headcommand {\beamer@subsectionpages {24}{28}}
-\headcommand {\sectionentry {4}{Optimal Control}{29}{Optimal Control}{0}}
-\headcommand {\slideentry {4}{0}{1}{29/29}{}{0}}
+\headcommand {\slideentry {3}{0}{5}{29/29}{}{0}}
 \headcommand {\beamer@framepages {29}{29}}
-\headcommand {\slideentry {4}{0}{2}{30/30}{}{0}}
+\headcommand {\beamer@sectionpages {25}{29}}
+\headcommand {\beamer@subsectionpages {25}{29}}
+\headcommand {\sectionentry {4}{Optimal Control}{30}{Optimal Control}{0}}
+\headcommand {\slideentry {4}{0}{1}{30/30}{}{0}}
 \headcommand {\beamer@framepages {30}{30}}
-\headcommand {\slideentry {4}{0}{3}{31/31}{}{0}}
+\headcommand {\slideentry {4}{0}{2}{31/31}{}{0}}
 \headcommand {\beamer@framepages {31}{31}}
-\headcommand {\slideentry {4}{0}{4}{32/32}{}{0}}
+\headcommand {\slideentry {4}{0}{3}{32/32}{}{0}}
 \headcommand {\beamer@framepages {32}{32}}
-\headcommand {\slideentry {4}{0}{5}{33/33}{}{0}}
+\headcommand {\slideentry {4}{0}{4}{33/33}{}{0}}
 \headcommand {\beamer@framepages {33}{33}}
-\headcommand {\slideentry {4}{0}{6}{34/34}{}{0}}
+\headcommand {\slideentry {4}{0}{5}{34/34}{}{0}}
 \headcommand {\beamer@framepages {34}{34}}
-\headcommand {\slideentry {4}{0}{7}{35/35}{}{0}}
+\headcommand {\slideentry {4}{0}{6}{35/35}{}{0}}
 \headcommand {\beamer@framepages {35}{35}}
-\headcommand {\beamer@sectionpages {29}{35}}
-\headcommand {\beamer@subsectionpages {29}{35}}
-\headcommand {\sectionentry {5}{Disturbance Estimator}{36}{Disturbance Estimator}{0}}
-\headcommand {\slideentry {5}{0}{1}{36/36}{}{0}}
+\headcommand {\slideentry {4}{0}{7}{36/36}{}{0}}
 \headcommand {\beamer@framepages {36}{36}}
-\headcommand {\slideentry {5}{0}{2}{37/37}{}{0}}
+\headcommand {\beamer@sectionpages {30}{36}}
+\headcommand {\beamer@subsectionpages {30}{36}}
+\headcommand {\sectionentry {5}{Disturbance Estimator}{37}{Disturbance Estimator}{0}}
+\headcommand {\slideentry {5}{0}{1}{37/37}{}{0}}
 \headcommand {\beamer@framepages {37}{37}}
-\headcommand {\slideentry {5}{0}{3}{38/38}{}{0}}
+\headcommand {\slideentry {5}{0}{2}{38/38}{}{0}}
 \headcommand {\beamer@framepages {38}{38}}
-\headcommand {\slideentry {5}{0}{4}{39/39}{}{0}}
+\headcommand {\slideentry {5}{0}{3}{39/39}{}{0}}
 \headcommand {\beamer@framepages {39}{39}}
-\headcommand {\slideentry {5}{0}{5}{40/40}{}{0}}
+\headcommand {\slideentry {5}{0}{4}{40/40}{}{0}}
 \headcommand {\beamer@framepages {40}{40}}
-\headcommand {\slideentry {5}{0}{6}{41/41}{}{0}}
+\headcommand {\slideentry {5}{0}{5}{41/41}{}{0}}
 \headcommand {\beamer@framepages {41}{41}}
-\headcommand {\slideentry {5}{0}{7}{42/42}{}{0}}
+\headcommand {\slideentry {5}{0}{6}{42/42}{}{0}}
 \headcommand {\beamer@framepages {42}{42}}
-\headcommand {\slideentry {5}{0}{8}{43/43}{}{0}}
+\headcommand {\slideentry {5}{0}{7}{43/43}{}{0}}
 \headcommand {\beamer@framepages {43}{43}}
-\headcommand {\beamer@sectionpages {36}{43}}
-\headcommand {\beamer@subsectionpages {36}{43}}
-\headcommand {\sectionentry {6}{Network Effects}{44}{Network Effects}{0}}
-\headcommand {\slideentry {6}{0}{1}{44/44}{}{0}}
+\headcommand {\slideentry {5}{0}{8}{44/44}{}{0}}
 \headcommand {\beamer@framepages {44}{44}}
-\headcommand {\slideentry {6}{0}{2}{45/45}{}{0}}
+\headcommand {\beamer@sectionpages {37}{44}}
+\headcommand {\beamer@subsectionpages {37}{44}}
+\headcommand {\sectionentry {6}{Network Effects}{45}{Network Effects}{0}}
+\headcommand {\slideentry {6}{0}{1}{45/45}{}{0}}
 \headcommand {\beamer@framepages {45}{45}}
-\headcommand {\slideentry {6}{0}{3}{46/46}{}{0}}
+\headcommand {\slideentry {6}{0}{2}{46/46}{}{0}}
 \headcommand {\beamer@framepages {46}{46}}
-\headcommand {\slideentry {6}{0}{4}{47/47}{}{0}}
+\headcommand {\slideentry {6}{0}{3}{47/47}{}{0}}
 \headcommand {\beamer@framepages {47}{47}}
-\headcommand {\beamer@sectionpages {44}{47}}
-\headcommand {\beamer@subsectionpages {44}{47}}
-\headcommand {\sectionentry {7}{Results}{48}{Results}{0}}
-\headcommand {\slideentry {7}{0}{1}{48/48}{}{0}}
+\headcommand {\slideentry {6}{0}{4}{48/48}{}{0}}
 \headcommand {\beamer@framepages {48}{48}}
-\headcommand {\beamer@subsectionpages {48}{48}}
-\headcommand {\beamer@subsectionentry {0}{7}{1}{49}{Best-Case Results}}
-\headcommand {\slideentry {7}{1}{1}{49/49}{Best-Case Results}{0}}
+\headcommand {\beamer@sectionpages {45}{48}}
+\headcommand {\beamer@subsectionpages {45}{48}}
+\headcommand {\sectionentry {7}{Results}{49}{Results}{0}}
+\headcommand {\slideentry {7}{0}{1}{49/49}{}{0}}
 \headcommand {\beamer@framepages {49}{49}}
-\headcommand {\slideentry {7}{1}{2}{50/50}{Best-Case Results}{0}}
+\headcommand {\beamer@subsectionpages {49}{49}}
+\headcommand {\beamer@subsectionentry {0}{7}{1}{50}{Best-Case Results}}
+\headcommand {\slideentry {7}{1}{1}{50/50}{Best-Case Results}{0}}
 \headcommand {\beamer@framepages {50}{50}}
-\headcommand {\slideentry {7}{1}{3}{51/51}{Best-Case Results}{0}}
+\headcommand {\slideentry {7}{1}{2}{51/51}{Best-Case Results}{0}}
 \headcommand {\beamer@framepages {51}{51}}
-\headcommand {\slideentry {7}{1}{4}{52/52}{Best-Case Results}{0}}
+\headcommand {\slideentry {7}{1}{3}{52/52}{Best-Case Results}{0}}
 \headcommand {\beamer@framepages {52}{52}}
-\headcommand {\beamer@subsectionpages {49}{52}}
-\headcommand {\beamer@subsectionentry {0}{7}{2}{53}{Pathological Synchronisation}}
-\headcommand {\slideentry {7}{2}{1}{53/53}{Pathological Synchronisation}{0}}
+\headcommand {\slideentry {7}{1}{4}{53/53}{Best-Case Results}{0}}
 \headcommand {\beamer@framepages {53}{53}}
-\headcommand {\slideentry {7}{2}{2}{54/54}{Pathological Synchronisation}{0}}
+\headcommand {\beamer@subsectionpages {50}{53}}
+\headcommand {\beamer@subsectionentry {0}{7}{2}{54}{Pathological Synchronisation}}
+\headcommand {\slideentry {7}{2}{1}{54/54}{Pathological Synchronisation}{0}}
 \headcommand {\beamer@framepages {54}{54}}
-\headcommand {\slideentry {7}{2}{3}{55/55}{Pathological Synchronisation}{0}}
+\headcommand {\slideentry {7}{2}{2}{55/55}{Pathological Synchronisation}{0}}
 \headcommand {\beamer@framepages {55}{55}}
-\headcommand {\beamer@sectionpages {48}{55}}
-\headcommand {\beamer@subsectionpages {53}{55}}
-\headcommand {\sectionentry {8}{References}{56}{References}{0}}
-\headcommand {\slideentry {8}{0}{1}{56/56}{}{0}}
+\headcommand {\slideentry {7}{2}{3}{56/56}{Pathological Synchronisation}{0}}
 \headcommand {\beamer@framepages {56}{56}}
-\headcommand {\slideentry {8}{0}{2}{57/57}{}{0}}
+\headcommand {\beamer@sectionpages {49}{56}}
+\headcommand {\beamer@subsectionpages {54}{56}}
+\headcommand {\sectionentry {8}{References}{57}{References}{0}}
+\headcommand {\slideentry {8}{0}{1}{57/57}{}{0}}
 \headcommand {\beamer@framepages {57}{57}}
-\headcommand {\beamer@partpages {1}{57}}
-\headcommand {\beamer@subsectionpages {56}{57}}
-\headcommand {\beamer@sectionpages {56}{57}}
-\headcommand {\beamer@documentpages {57}}
-\headcommand {\gdef \inserttotalframenumber {55}}
+\headcommand {\slideentry {8}{0}{2}{58/58}{}{0}}
+\headcommand {\beamer@framepages {58}{58}}
+\headcommand {\beamer@partpages {1}{58}}
+\headcommand {\beamer@subsectionpages {57}{58}}
+\headcommand {\beamer@sectionpages {57}{58}}
+\headcommand {\beamer@documentpages {58}}
+\headcommand {\gdef \inserttotalframenumber {56}}
