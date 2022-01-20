@@ -15,7 +15,7 @@
 
 
 \begin{frame}{Modelling of Water Distribution Networks}{Graph Theory}
-	Graph theory describes a networked system as a directed graph composed of edges and vertices.
+	Graph theory describes a system as a directed graph.
 	
 	\begin{figure}[h!]
 		\centering
@@ -23,6 +23,11 @@
 		\caption{Graph of simplified WDN network. From \cite{Rathore930}.}
 		\label{fig:graph}
 	\end{figure}
+	
+	\begin{itemize}
+		\item Spanning tree
+		\item Chords
+	\end{itemize}
 	
 \end{frame}
 
@@ -76,8 +81,8 @@ Example:
 \end{equation}
 \begin{equation}
 	B = \begin{bmatrix}
-		1 & 0 & 1 & -1 & -1 & 1 & 1\\
-		0 & 1 & 0 & 0 & -1 & 1 & 1\\
+		1 & 1 & -1 & -1 & 0 & 0 & 0\\
+		0 & 0 & 0 & 1 & -1 & 1 & 1\\
 	\end{bmatrix}
 \end{equation}
 \end{frame}
