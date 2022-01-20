@@ -29,6 +29,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 \usepackage[T1]{fontenc}
+\usepackage{multimedia}
 % Or whatever. Note that the encoding and the font should match. If T1
 % does not look nice, try deleting the line with the fontenc.
 \usepackage{helvet}
@@ -43,6 +44,9 @@
 	pinstyle/.style = {pin edge={to-,thin,black}
 	}
 }
+
+\usepackage{amsmath}
+\usepackage{amssymb}
 
 % colored hyperlinks
 \newcommand{\chref}[2]{%
@@ -150,7 +154,7 @@
 \subsection{Slow Dynamics and Linearisation}
 \input{Topics/SlowDynamicsLinearisation/SlowDynamicsLinearisation}
 %
-\section{Control structure and root locus}
+\section{Control Structure and Root Locus}
 \input{Topics/ControlStructure/ControlStructure}
 
 \section{Optimal Control}
@@ -159,7 +163,7 @@
 \section{Disturbance Estimator}
 \input{Topics/KalmanEstimator/KF}
 %
-\section{Network effects}
+\section{Network Effects}
 \input{Topics/NetworkEffects/NetworkEffects}
 %
 \section{Results}
@@ -187,7 +191,7 @@
 \section{References}
 \begin{frame}{References}
 	\bibliographystyle{ieeetran}
-	\bibliography{../RefLib/CA7Projekt.bib}
+	\bibliography{../../RefLib/CA7Projekt.bib}
 \end{frame}
 
 {\aauwavesbg

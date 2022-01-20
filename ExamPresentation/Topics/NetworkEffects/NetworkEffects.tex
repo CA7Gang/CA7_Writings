@@ -12,7 +12,7 @@
 		\end{itemize}
 		\item Try-Once-Discard protocol used
 		\begin{itemize}
-			\item Packet loss -> 0 control input
+			\item Packet loss $\rightarrow$ assume states = 0
 		\end{itemize}
 	\end{itemize}
 	\begin{figure}[h!]
@@ -23,27 +23,27 @@
 \end{figure}
 \end{frame}
 
-\begin{frame}{For Specific Packet Loss}
+\begin{frame}{Network Effects}{For Specific Packet Loss}
 	\begin{itemize}
-		\item Assuming $ 60\% $ as upper bound for loss, $ \alpha $, the condition for mean squre stability is:
+	\item Packet loss is stochastic, must think in terms of mean-square stability: 
+	\begin{equation}
+		\lim_{k \rightarrow \infty} \text{E}[x(k)^2] = 0
+	\end{equation}
+	\item Assuming $ 60\% $ as upper bound for loss, $ \alpha $, the condition for mean-square stability is \cite{Hu2007}:
 	\begin{equation}\label{eq:HuStabCondition}
 		\mathcal{S}\Big(\alpha A \otimes A + (1-\alpha)(A-BK) \otimes (A-BK) \Big) < 1
 	\end{equation}
-		\item The propagation matrix of the states covariance
+		\item This is because propagation matrix of the state covariance is:
 	\begin{equation}\label{eq:HuStabCondition}
 		\alpha A \otimes A + (1-\alpha)(A-BK) \otimes (A-BK) 
-	\end{equation}
-		\item For stability this must hold 
-	\begin{equation}
-		\lim_{k \rightarrow \infty} \text{E}[x(k)^2] = 0
 	\end{equation}
 		\item We get $\mathcal{S} = 0.9453 $
 	\end{itemize}
 \end{frame}	
 	
-\begin{frame}{For Any Packet Loss}
+\begin{frame}{Network Effects}{Upper Loss Bound}
 	\begin{itemize}
-		\item Largest possible bound for packet drop, $ \alpha $, where the system will be marginal stable
+		\item Upper bound on packet loss $ \Xi $. All values $\alpha < \Xi$ will also be stable.
 		\begin{equation}\label{eq:VMatrix}
 			\begin{gathered}
 				\Xi = \frac{1}{\lVert\sigma_+(V)\rVert_\infty} \\
@@ -51,7 +51,7 @@
 				S = \left(A-BK\right) \otimes \left(A-BK\right), \quad \hat{S} = A \otimes A - S
 			\end{gathered}
 		\end{equation}
-		\item Plugging in the LQR matrices and no control
+		\item In the limit of zero control:
 		\begin{equation}
 			\begin{split}
 				\lim_{\tilde{K}\rightarrow 0} \Big(\alpha \tilde{A} \otimes \tilde{A} + (1-\alpha)(\tilde{A}-\tilde{B}\tilde{K}) \otimes (\tilde{A}-\tilde{B}\tilde{K}) \Big) \\
@@ -61,9 +61,7 @@
 	\end{itemize}
 \end{frame}	
 
-\begin{frame}{For Any Packet loss}
-	\begin{itemize}
-		\item asddas
+\begin{frame}{Network Effects}{Upper Loss Bound - Continued}
 		\begin{equation}
 			\begin{split}
 				\forall \alpha \in \{0 \dots 1\}: \quad \Big(\alpha \tilde{A} \otimes \tilde{A} + (1-\alpha)\tilde{A} \otimes \tilde{A}\Big) \\
@@ -76,7 +74,6 @@
 				\end{bmatrix}
 			\end{split}
 		\end{equation}
-		\item Thus the EWR is marginally stable for any packet loss -> $ \mathcal{S}={1, 1, 1, 1}  $
-	\end{itemize}
+		Thus \textit{any} EWR is marginally stable in the zero limit of control for any packet loss as $\mathcal{S}({1, 1, 1, 1}) = 1 $.
 \end{frame}
 

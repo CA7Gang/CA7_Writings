@@ -14,22 +14,21 @@
 
 
 
-\begin{frame}{Modelling of Water Distribution Networks}{Graph theory}
+\begin{frame}{Modelling of Water Distribution Networks}{Graph Theory}
 	Graph theory describes a networked system as a directed graph composed of edges and vertices.
 	
 	\begin{figure}[h!]
 		\centering
 		\includegraphics[width=0.4\textwidth]{Topics/SystemModel/Graphics/Graph.png}
-		\caption{Graph of simplified WDN network }
+		\caption{Graph of simplified WDN network. From \cite{Rathore930}.}
 		\label{fig:graph}
 	\end{figure}
 	
-
 \end{frame}
 
 
-\begin{frame}{Modelling of Water Distribution Networks}{Incidence and loop matrices}
-Auxillery matrices can be defined to mathematically describe the network:
+\begin{frame}{Modelling of Water Distribution Networks}{Incidence and Loop matrices}
+Auxiliary matrices can be defined to mathematically describe the network:
 
 
 \begin{equation*}
@@ -50,7 +49,7 @@ Auxillery matrices can be defined to mathematically describe the network:
 \end{frame}
 
 
-\begin{frame}{Modelling of Water Distribution Networks}{Incidence and loop matrices: Example}
+\begin{frame}{Modelling of Water Distribution Networks}{Incidence and Loop matrices: Example}
 Example:
 
 \begin{equation}
@@ -84,7 +83,7 @@ Example:
 \end{frame}
 
 
-\begin{frame}{Modelling of Water Distribution Networks}{Demand matrices}
+\begin{frame}{Modelling of Water Distribution Networks}{Demand Matrices}
 Whether a node is open to atmosphere or not, or connected to a tank, can be described with matrices F and G respectively.
 	
 	
@@ -113,15 +112,15 @@ Whether a node is open to atmosphere or not, or connected to a tank, can be desc
 
 
 
-\begin{frame}{Modelling of Water Distribution Networks}{Generel component model}
-	The edges of the WDN can be described with a pressure and flow relationsship, analogous to the current and voltage of an electrical component. \\
+\begin{frame}{Modelling of Water Distribution Networks}{General Component Model}
+	The edges of the WDN can be described with a pressure and flow relationship, analogous to the current and voltage of an electrical component. \\
 	\medskip
 	This project uses pipes, valves and pumps as edge components. \\
 	\medskip
-	The generel relationship between pressure and flow can be defined as:
+	The general relationship between pressure and flow can be defined as:
 	
 	\begin{equation}\label{eq:PressureFunction}
-		\Delta p = \mathcal{J}\dot{q} + \lambda(q) + \mu(q, OD) + \alpha(q, \omega) -\Delta h
+		\Delta p = \mathcal{J}\dot{q} + \lambda(q) + \mu(q, \Theta) + \alpha(q, \omega) -\Delta h
 	\end{equation}
 	
 	
@@ -158,7 +157,7 @@ where:
 \begin{frame}{Modelling of Water Distribution Networks}{Valve model}
 	The pressure drop across a valve is defined as:
 	\begin{equation}\label{eq:ValvePressure}
-		\Delta p_{k} = \mu(q,OD) = \frac{1}{K_{valve}(OD)^2} \cdot |q|\cdot q 
+		\Delta p_{k} = \mu(q,OD) = \frac{1}{K_{valve}(\Theta)^2} \cdot |q|\cdot q 
 	\end{equation}
 	
 	where OD is the opening degree of the valve.\\
@@ -170,7 +169,7 @@ where:
 		q_1 = q_2\cdot\sqrt{\frac{\Delta p_1}{\Delta p_2}}
 	\end{equation}
 \begin{equation}\label{eq:Kvalve}
-	q = q_n(OD)\cdot\sqrt{\frac{\Delta p_1}{1}} = K_{valve}(OD)\cdot\sqrt{\Delta p_1}
+	q = q_n(\Theta)\cdot\sqrt{\frac{\Delta p_1}{1}} = K_{valve}(\Theta)\cdot\sqrt{\Delta p_1}
 \end{equation}
 \end{frame}
 

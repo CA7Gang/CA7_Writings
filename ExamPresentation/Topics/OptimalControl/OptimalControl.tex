@@ -1,10 +1,10 @@
 
 % motivation for creating this theme
-\begin{frame}{Optimal Control}{General optimal control problem}
+\begin{frame}{Optimal Control}{General Optimal Control Problem}
 	The basic structure of an optimal control problem is sketched in the language of calculus of variations.
 	\begin{align}
 		\dot{x} = &f(x,u,t) \label{eq:BasicOptimalFunction} \\ 
-		x(t_0) = x_0, \ &x \in \mathbb{R}^n, \ u \in U \in \mathbb{R}^m \label{eq:BasicOptimalDefinitions}
+		x(t_0) = x_0, \ &x \in \mathbb{R}^n, \ u \in U \subseteq \mathbb{R}^m \label{eq:BasicOptimalDefinitions}
 	\end{align}
 	
 	where $t \in \mathbb{R}$ is the time and $x,u$ are functions of $t$, with $U$ the set of admissible controls. \\
@@ -40,7 +40,7 @@
 
 	%%%%%%%%%%%%%%%%
 \begin{frame}{Infinite-Horizon Linear-Quadratic Regulator}
-	The LQR timeinvariant case with no terminal cost.\\
+	The LQR time-invariant case with no terminal cost.\\
 	System Dynamics:
 	\begin{equation}
 		\dot{x}(t) = Ax(t) + Bu(t) \label{eq:TimeInvariantLinearSystem}
@@ -68,16 +68,14 @@
 	 
 	
 	Let $\hat{x} = x-x_r$ and $\hat{u} = u-u_r$. Shifted coordinate system cost functional framed as an output tracking problem:
-	
-	CHANGE NOTATION HERE
-	
+		
 	
 	\begin{equation}\label{eq:LagrangeProblemOutput}
-		J = \int_{t_0}^{\infty} \big((C\hat{x})^TQ_y(C\hat{x}) + \hat{u}^TR\hat{u}\big)dt = \int_{t_0}^{\infty} \big(\hat{y}^TQ_y\hat{y} + \hat{u}^TR\hat{u}\big)dt
+		J = \int_{t_0}^{\infty} \big( \big(C^T\hat{x}^T\big) Q_y \big(C\hat{x}\big) + \hat{u}^TR\hat{u} \big) dt = \int_{t_0}^{\infty} \big(\hat{y}^TQ_y\hat{y} + \hat{u}^TR\hat{u}\big)dt
 	\end{equation} 
 	
 	\begin{itemize}
-		\item If linearized around some equlibrium point, these can be used as reference.
+		\item If linearised around some equilibrium point, these can be used as reference.
 	\end{itemize}
 
 \end{frame}
@@ -136,14 +134,10 @@
 	\begin{equation}
 		\tilde{K} = (\tilde{B}^TP\tilde{B}-R)^{-1}(\tilde{B}^TP\tilde{A})
 	\end{equation}
-
-	\begin{itemize}
-		\item With low sampling frequency the correlation between decreases!
-	\end{itemize}
 \end{frame}
 
 
-\begin{frame}{Exogenous input disturbance-accommodating LQR}
+\begin{frame}{Velocity-Form LQR}{Disturbance-accommodating VF-LQR}
 
 	Standard LQR does not accommodate exogenous inputs (such as the the model of the consumer demand flows) but can be modified to do so:
 	\begin{equation}

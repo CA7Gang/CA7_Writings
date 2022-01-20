@@ -1,6 +1,6 @@
-\subsubsection{Slow dynamics}
+\subsubsection{Slow Dynamics}
 
-\begin{frame}{Slow dynamics}{Modelling of Water Distribution Network}
+\begin{frame}{Modelling of Water Distribution Networks}{Slow Dynamics}
 	\begin{columns}
 		\begin{column}{.5\textwidth}
 			\begin{itemize}
@@ -33,7 +33,7 @@
 	\end{columns}
 \end{frame}
 
-\begin{frame}{State space formulation of slow dynamics}{Modelling of Water Distribution Network}
+\begin{frame}{Modelling of Water Distribution Network}{State-space Formulation of Slow Dynamics}
 	\begin{figure}[h!]
 		\centering
 		\resizebox{\columnwidth}{!}{
@@ -43,7 +43,7 @@
 	In context of WDN we now consider flows to and from network as external demands $ d_i $
 \end{frame}
 
-\begin{frame}{State space formulation of slow dynamics}{Modelling of Water Distribution Network}
+\begin{frame}{Modelling of Water Distribution Networks}{State-space Formulation of Slow Dynamics}
 	Mass conservation holds, and such
 	\begin{equation*}
 		d_n = -\sum_{i=1}^{n-1}d_i \implies d_\tau = - (d_p + d_c)
@@ -75,17 +75,18 @@
 
 
 \subsubsection{Linearisation}
-\begin{frame}{Linearisation}
+\begin{frame}{Modelling of Water Distribution Networks}{Linearisation}
 	\begin{columns}
 		\begin{column}{.4\textwidth}
 			\begin{itemize}
-				\item Fast dynamics are non linear
+				\item Fast dynamics are non-linear
 				\item Linearisation required
 			\end{itemize}
 			In near vicinity of linearisation point $ x_0 $,
 			\begin{equation*}
 				\dot{x} \approx f(x_0) + \nabla f\bigg\rvert_{x_0} (x-x_0)
 			\end{equation*}
+			Linearising around equilibrium point preferred
 		\end{column}
 		\begin{column}{.6\textwidth}\raggedleft
 			\includegraphics[width=1\linewidth]{Topics/SlowDynamicsLinearisation/Graphics/Linearisation_pic.png}
@@ -93,7 +94,7 @@
 	\end{columns}
 \end{frame}
 
-\begin{frame}{Linearisation}{Modelling of Water Distribution Networks}
+\begin{frame}{Modelling of Water Distribution Networks}{Linearisation}
 %	Fast dynamics are non linear - linearisation is needed.\\
 %	In near vicinity of linearisation point $ x_0 $,
 %	\begin{equation*}
@@ -115,7 +116,7 @@
 	where $x_0 = \{q_0,\Theta_0,\omega_0, p_{\tau_0} \}$, $ \tilde{q} =q-q_0$, likewise for $ \tilde{\Theta} $, $ \tilde{\omega}$, $\tilde{p_{\tau}}  $
 \end{frame}
 
-\begin{frame}{Linearisation}{Modelling of Water Distribution Networks}
+\begin{frame}{Modelling of Water Distribution Networks}{Linearisation}
 	The full linearised model is then obtained as
 	\begin{equation}\label{eq:SymbolicLinearisationExpanded}
 		\begin{split}
@@ -129,7 +130,7 @@
 The equation can be simplified further making some assumptions
 \end{frame}
 
-\begin{frame}{Linearisation}{Modelling of Water Distribution Networks}
+\begin{frame}{Modelling of Water Distribution Networks}{Linearisation}
 	Equilibrium disappears, valve and tank dynamics assumed to be constant disturbances 
 	\begin{equation}\label{eq:SymbolicLinearisationSimplified}
 		\begin{split}

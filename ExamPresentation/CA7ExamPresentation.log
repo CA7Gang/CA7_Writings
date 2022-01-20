@@ -1,220 +1,238 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.29)  18 JAN 2022 12:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.10)  20 JAN 2022 14:03
 entering extended mode
 **./CA7ExamPresentation.tex
 (CA7ExamPresentation.tex
-LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-08-27>
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
-Document Class: beamer 2021/10/18 v3.64 A class for typesetting presentations
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03>
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamer.
+cls"
+Document Class: beamer 2020/05/06 v3.58 A class for typesetting presentations
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemode
-s.sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count182
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asemodes.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etool
+box.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count167
 )
-\beamer@tempbox=\box50
-\beamer@tempcount=\count183
-\c@beamerpauses=\count184
+\beamer@tempbox=\box45
+\beamer@tempcount=\count168
+\c@beamerpauses=\count169
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasedeco
-de.sty
-\beamer@slideinframe=\count185
-\beamer@minimum=\count186
-\beamer@decode@box=\box51
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asedecode.sty"
+\beamer@slideinframe=\count170
+\beamer@minimum=\count171
+\beamer@decode@box=\box46
 )
-\beamer@commentbox=\box52
-\beamer@modecount=\count187
+\beamer@commentbox=\box47
+\beamer@modecount=\count172
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifpdf.
+sty"
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.
+sty"
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\headdp=\dimen138
-\footheight=\dimen139
-\sidebarheight=\dimen140
-\beamer@tempdim=\dimen141
-\beamer@finalheight=\dimen142
-\beamer@animht=\dimen143
-\beamer@animdp=\dimen144
-\beamer@animwd=\dimen145
-\beamer@leftmargin=\dimen146
-\beamer@rightmargin=\dimen147
-\beamer@leftsidebar=\dimen148
-\beamer@rightsidebar=\dimen149
-\beamer@boxsize=\dimen150
-\beamer@vboxoffset=\dimen151
-\beamer@descdefault=\dimen152
-\beamer@descriptionwidth=\dimen153
+\headdp=\dimen134
+\footheight=\dimen135
+\sidebarheight=\dimen136
+\beamer@tempdim=\dimen137
+\beamer@finalheight=\dimen138
+\beamer@animht=\dimen139
+\beamer@animdp=\dimen140
+\beamer@animwd=\dimen141
+\beamer@leftmargin=\dimen142
+\beamer@rightmargin=\dimen143
+\beamer@leftsidebar=\dimen144
+\beamer@rightsidebar=\dimen145
+\beamer@boxsize=\dimen146
+\beamer@vboxoffset=\dimen147
+\beamer@descdefault=\dimen148
+\beamer@descriptionwidth=\dimen149
 \beamer@lastskip=\skip47
-\beamer@areabox=\box53
-\beamer@animcurrent=\box54
-\beamer@animshowbox=\box55
-\beamer@sectionbox=\box56
-\beamer@logobox=\box57
-\beamer@linebox=\box58
-\beamer@sectioncount=\count188
-\beamer@subsubsectionmax=\count189
-\beamer@subsectionmax=\count190
-\beamer@sectionmax=\count191
-\beamer@totalheads=\count192
-\beamer@headcounter=\count193
-\beamer@partstartpage=\count194
-\beamer@sectionstartpage=\count195
-\beamer@subsectionstartpage=\count196
-\beamer@animationtempa=\count197
-\beamer@animationtempb=\count198
-\beamer@xpos=\count199
-\beamer@ypos=\count266
-\beamer@ypos@offset=\count267
-\beamer@showpartnumber=\count268
-\beamer@currentsubsection=\count269
-\beamer@coveringdepth=\count270
-\beamer@sectionadjust=\count271
-\beamer@toclastsection=\count272
-\beamer@tocsectionnumber=\count273
+\beamer@areabox=\box48
+\beamer@animcurrent=\box49
+\beamer@animshowbox=\box50
+\beamer@sectionbox=\box51
+\beamer@logobox=\box52
+\beamer@linebox=\box53
+\beamer@sectioncount=\count173
+\beamer@subsubsectionmax=\count174
+\beamer@subsectionmax=\count175
+\beamer@sectionmax=\count176
+\beamer@totalheads=\count177
+\beamer@headcounter=\count178
+\beamer@partstartpage=\count179
+\beamer@sectionstartpage=\count180
+\beamer@subsectionstartpage=\count181
+\beamer@animationtempa=\count182
+\beamer@animationtempb=\count183
+\beamer@xpos=\count184
+\beamer@ypos=\count185
+\beamer@ypos@offset=\count186
+\beamer@showpartnumber=\count187
+\beamer@currentsubsection=\count188
+\beamer@coveringdepth=\count189
+\beamer@sectionadjust=\count190
+\beamer@tocsectionnumber=\count191
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseopti
-ons.sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+aseoptions.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyva
+l.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks15
 ))
 \beamer@paperwidth=\skip48
 \beamer@paperheight=\skip49
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geome
+try.sty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex
+.sty"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count274
-\Gm@cntv=\count275
-\c@Gm@tempcnt=\count276
-\Gm@bindingoffset=\dimen154
-\Gm@wd@mp=\dimen155
-\Gm@odd@mp=\dimen156
-\Gm@even@mp=\dimen157
-\Gm@layoutwidth=\dimen158
-\Gm@layoutheight=\dimen159
-\Gm@layouthoffset=\dimen160
-\Gm@layoutvoffset=\dimen161
-\Gm@dimlist=\toks17
+\Gm@cnth=\count192
+\Gm@cntv=\count193
+\c@Gm@tempcnt=\count194
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks16
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
-)) (C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geome
+try.cfg"))
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.cl
+o"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcor
-e.sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer
+\pgfcore.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
+icx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
+ics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.
+sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
-.cfg
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\g
+raphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
-ef
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\p
+dftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen162
-\Gin@req@width=\dimen163
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsy
-s.sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.
-sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
-il-common.tex
-\pgfutil@everybye=\toks18
-\pgfutil@tempdima=\dimen164
-\pgfutil@tempdimb=\dimen165
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlaye
+r\pgfsys.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\
+pgfrcs.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgfutil-common.tex"
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen160
+\pgfutil@tempdimb=\dimen161
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
-il-common-lists.tex))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
-il-latex.def
-\pgfutil@abb=\box59
-)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrc
-s.code.tex
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.te
-x)
-Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgfutil-common-lists.tex"))
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgfutil-latex.def"
+\pgfutil@abb=\box54
+
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.st
+y"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-sys.code.tex
-Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
-
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
-ys.code.tex
-\pgfkeys@pathtoks=\toks19
-\pgfkeys@temptoks=\toks20
-
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
-ysfiltered.code.tex
-\pgfkeys@tmptoks=\toks21
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgfrcs.code.tex"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revi
+sion.tex")
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
 ))
-\pgf@x=\dimen166
-\pgf@y=\dimen167
-\pgf@xa=\dimen168
-\pgf@ya=\dimen169
-\pgf@xb=\dimen170
-\pgf@yb=\dimen171
-\pgf@xc=\dimen172
-\pgf@yc=\dimen173
-\pgf@xd=\dimen174
-\pgf@yd=\dimen175
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemla
+yer\pgfsys.code.tex"
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen162
+\pgf@y=\dimen163
+\pgf@xa=\dimen164
+\pgf@ya=\dimen165
+\pgf@xb=\dimen166
+\pgf@yb=\dimen167
+\pgf@xc=\dimen168
+\pgf@yc=\dimen169
+\pgf@xd=\dimen170
+\pgf@yd=\dimen171
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count277
-\c@pgf@countb=\count278
-\c@pgf@countc=\count279
-\c@pgf@countd=\count280
-\t@pgf@toka=\toks22
-\t@pgf@tokb=\toks23
-\t@pgf@tokc=\toks24
-\pgf@sys@id@count=\count281
+\c@pgf@counta=\count195
+\c@pgf@countb=\count196
+\c@pgf@countc=\count197
+\c@pgf@countd=\count198
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count199
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-.cfg
-File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemla
+yer\pgf.cfg"
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-sys-pdftex.def
-File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemla
+yer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-sys-common-pdf.def
-File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemla
+yer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 )))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-syssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count282
-\pgfsyssoftpath@bigbuffer@items=\count283
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemla
+yer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count266
+\pgfsyssoftpath@bigbuffer@items=\count267
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-sysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemla
+yer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.
+sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
-g
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\c
+olor.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -228,271 +246,266 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-ore.code.tex
-Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcore.code.tex"
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
-de.tex
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcal
-c.code.tex
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathuti
-l.code.tex)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpar
-ser.code.tex
-\pgfmath@dimen=\dimen176
-\pgfmath@count=\count284
-\pgfmath@box=\box60
-\pgfmath@toks=\toks25
-\pgfmath@stack@operand=\toks26
-\pgfmath@stack@operation=\toks27
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+math.code.tex"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathcalc.code.tex"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathutil.code.tex")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathparser.code.tex"
+\pgfmath@dimen=\dimen172
+\pgfmath@count=\count268
+\pgfmath@box=\box55
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.code.tex
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.basic.code.tex)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.trigonometric.code.tex)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.random.code.tex)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.comparison.code.tex)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.base.code.tex)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.round.code.tex)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.misc.code.tex)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.integerarithmetics.code.tex)))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathflo
-at.code.tex
-\c@pgfmathroundto@lastzeros=\count285
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.code.tex"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.basic.code.tex")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.trigonometric.code.tex")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.random.code.tex")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.comparison.code.tex")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.base.code.tex")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.round.code.tex")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.misc.code.tex")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfunctions.integerarithmetics.code.tex")))
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+mathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count269
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.cod
-e.tex)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepoints.code.tex
-File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen177
-\pgf@picmaxx=\dimen178
-\pgf@picminy=\dimen179
-\pgf@picmaxy=\dimen180
-\pgf@pathminx=\dimen181
-\pgf@pathmaxx=\dimen182
-\pgf@pathminy=\dimen183
-\pgf@pathmaxy=\dimen184
-\pgf@xx=\dimen185
-\pgf@xy=\dimen186
-\pgf@yx=\dimen187
-\pgf@yy=\dimen188
-\pgf@zx=\dimen189
-\pgf@zy=\dimen190
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+int.code.tex")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen173
+\pgf@picmaxx=\dimen174
+\pgf@picminy=\dimen175
+\pgf@picmaxy=\dimen176
+\pgf@pathminx=\dimen177
+\pgf@pathmaxx=\dimen178
+\pgf@pathminy=\dimen179
+\pgf@pathmaxy=\dimen180
+\pgf@xx=\dimen181
+\pgf@xy=\dimen182
+\pgf@yx=\dimen183
+\pgf@yy=\dimen184
+\pgf@zx=\dimen185
+\pgf@zy=\dimen186
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen191
-\pgf@path@lasty=\dimen192
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen187
+\pgf@path@lasty=\dimen188
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepathusage.code.tex
-File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen193
-\pgf@shorten@start@additional=\dimen194
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen189
+\pgf@shorten@start@additional=\dimen190
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orescopes.code.tex
-File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box61
-\pgf@hbox=\box62
-\pgf@layerbox@main=\box63
-\pgf@picture@serial@count=\count286
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count270
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen195
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen191
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oretransformations.code.tex
-File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen196
-\pgf@pt@y=\dimen197
-\pgf@pt@temp=\dimen198
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen192
+\pgf@pt@y=\dimen193
+\pgf@pt@temp=\dimen194
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orequick.code.tex
-File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oreobjects.code.tex
-File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orearrows.code.tex
-File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen199
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen195
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oreshade.code.tex
-File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen256
-\pgf@sys@shading@range@num=\count287
-\pgf@shadingcount=\count288
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen196
+\pgf@sys@shading@range@num=\count271
+\pgf@shadingcount=\count272
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oreimage.code.tex
-File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oreexternal.code.tex
-File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box64
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box59
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orelayers.code.tex
-File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oretransparency.code.tex
-File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepatterns.code.tex
-File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orerdf.code.tex
-File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclay
+er\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor
-.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\
+xxcolor.sty"
 Package: xxcolor 2003/10/24 ver 0.1
-\XC@nummixins=\count289
-\XC@countmixins=\count290
+\XC@nummixins=\count273
+\XC@countmixins=\count274
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
-Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
-package with kernel methods
-)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atb
+egshi.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
-ds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
-.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\in
+fwarerr.sty"
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxc
+mds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+))
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyper
+ref.sty"
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdf
+texcmds.sty"
+Package: pdftexcmds 2020-06-04 v0.32 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys
-.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kv
+setkeys.sty"
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
-nekeys.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys
+\kvdefinekeys.sty"
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
-.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pd
+fescape.sty"
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolo
+r.sty"
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmac
-ro.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\le
+tltxmacro.sty"
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhoo
+k.sty"
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
-ty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvop
+tions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
-\@linkdim=\dimen257
-\Hy@linkcounter=\count291
-\Hy@pagecounter=\count292
+\@linkdim=\dimen197
+\Hy@linkcounter=\count275
+\Hy@pagecounter=\count276
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1en
+c.def"
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-lan
-gpatches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
-nguages
-)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intc
+alc.sty"
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.s
-ty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\ete
+xcmds.sty"
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count293
-
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
-)
-Package hyperref Info: Option `bookmarks' set `true' on input line 4073.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4073.
-Package hyperref Info: Option `implicit' set `false' on input line 4073.
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+\Hy@SavedSpaceFactor=\count277
+Package hyperref Info: Option `bookmarks' set `true' on input line 4338.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4338.
+Package hyperref Info: Option `implicit' set `false' on input line 4338.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
-Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count294
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count278
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen258
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen198
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitse
+t.sty"
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
-lc.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\b
+igintcalc.sty"
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count295
-\Field@Width=\dimen259
-\Fld@charsize=\dimen260
-Package hyperref Info: Hyper figures OFF on input line 6076.
-Package hyperref Info: Link nesting OFF on input line 6081.
-Package hyperref Info: Hyper index ON on input line 6084.
-Package hyperref Info: backreferencing OFF on input line 6091.
-Package hyperref Info: Link coloring OFF on input line 6096.
-Package hyperref Info: Link coloring with OCG OFF on input line 6101.
-Package hyperref Info: PDF/A mode OFF on input line 6106.
-LaTeX Info: Redefining \ref on input line 6146.
-LaTeX Info: Redefining \pageref on input line 6150.
-\Hy@abspage=\count296
+\Fld@menulength=\count279
+\Field@Width=\dimen199
+\Fld@charsize=\dimen256
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+\Hy@abspage=\count280
 
 
 Package hyperref Message: Stopped early.
@@ -500,533 +513,551 @@ Package hyperref Message: Stopped early.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdft
+ex.def"
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.st
-y
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
-e
-with kernel methods
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/atveryend\atve
+ryend.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 )
-\Fld@listcount=\count297
-\c@bookmark@seq@number=\count298
+\Fld@listcount=\count281
+\c@bookmark@seq@number=\count282
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
-ilecheck.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck
+\rerunfilecheck.sty"
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
-ecounter.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounte
+r\uniquecounter.sty"
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaserequ
-ires.sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecomp
-atibility.sty)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefont
-.sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+aserequires.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asecompatibility.sty")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asefont.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssy
+mb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfo
+nts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks28
+\@emptytoks=\toks27
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\sansma
-thaccent.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sansmathaccent
+\sansmathaccent.sty"
 Package: sansmathaccent 2020/01/31
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.
-sty
-Package: scrlfile 2021/06/25 v3.34 KOMA-Script package (file load hooks)
-
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-
-hook.sty
-Package: scrlfile-hook 2021/06/25 v3.34 KOMA-Script package (using LaTeX hooks)
-
-
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.s
-ty
-Package: scrlogo 2021/06/25 v3.34 KOMA-Script package (logo)
-)))))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetran
-slator.sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
-.sty
-Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\sc
+rlfile.sty"
+Package: scrlfile 2020/04/19 v3.30 KOMA-Script package (loading files)
+)))
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asetranslator.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\tra
+nslator.sty"
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemisc
-.sty)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetwos
-creens.sty)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseover
-lay.sty
-\beamer@argscount=\count299
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asemisc.sty")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asetwoscreens.sty")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+aseoverlay.sty"
+\beamer@argscount=\count283
 \beamer@lastskipcover=\skip50
-\beamer@trivlistdepth=\count300
+\beamer@trivlistdepth=\count284
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetitl
-e.sty)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasesect
-ion.sty
-\c@lecture=\count301
-\c@part=\count302
-\c@section=\count303
-\c@subsection=\count304
-\c@subsubsection=\count305
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asetitle.sty")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asesection.sty"
+\c@lecture=\count285
+\c@part=\count286
+\c@section=\count287
+\c@subsection=\count288
+\c@subsubsection=\count289
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
-e.sty
-\beamer@framebox=\box65
-\beamer@frametitlebox=\box66
-\beamer@zoombox=\box67
-\beamer@zoomcount=\count306
-\beamer@zoomframecount=\count307
-\beamer@frametextheight=\dimen261
-\c@subsectionslide=\count308
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+aseframe.sty"
+\beamer@framebox=\box60
+\beamer@frametitlebox=\box61
+\beamer@zoombox=\box62
+\beamer@zoomcount=\count290
+\beamer@zoomframecount=\count291
+\beamer@frametextheight=\dimen257
+\c@subsectionslide=\count292
 \beamer@frametopskip=\skip51
 \beamer@framebottomskip=\skip52
 \beamer@frametopskipautobreak=\skip53
 \beamer@framebottomskipautobreak=\skip54
-\beamer@envbody=\toks29
-\framewidth=\dimen262
-\c@framenumber=\count309
+\beamer@envbody=\toks28
+\framewidth=\dimen258
+\c@framenumber=\count293
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseverb
-atim.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+aseverbatim.sty"
 \beamer@verbatimfileout=\write4
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
-esize.sty
-\beamer@splitbox=\box68
-\beamer@autobreakcount=\count310
-\beamer@autobreaklastheight=\dimen263
-\beamer@frametitletoks=\toks30
-\beamer@framesubtitletoks=\toks31
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+aseframesize.sty"
+\beamer@splitbox=\box63
+\beamer@autobreakcount=\count294
+\beamer@autobreaklastheight=\dimen259
+\beamer@frametitletoks=\toks29
+\beamer@framesubtitletoks=\toks30
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefram
-ecomponents.sty
-\beamer@footins=\box69
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+aseframecomponents.sty"
+\beamer@footins=\box64
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecolo
-r.sty)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenote
-s.sty
-\beamer@frameboxcopy=\box70
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asecolor.sty")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asenotes.sty"
+\beamer@frameboxcopy=\box65
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetoc.
-sty)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetemp
-lates.sty
-\beamer@sbttoks=\toks32
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asetoc.sty")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asetemplates.sty"
+\beamer@sbttoks=\toks31
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseauxt
-emplates.sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseboxe
-s.sty
-\bmb@box=\box71
-\bmb@colorbox=\box72
-\bmb@boxwidth=\dimen264
-\bmb@boxheight=\dimen265
-\bmb@prevheight=\dimen266
-\bmb@temp=\dimen267
-\bmb@dima=\dimen268
-\bmb@dimb=\dimen269
-\bmb@prevheight=\dimen270
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+aseauxtemplates.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+aseboxes.sty"
+\bmb@box=\box66
+\bmb@colorbox=\box67
+\bmb@boxshadow=\box68
+\bmb@boxshadowball=\box69
+\bmb@boxshadowballlarge=\box70
+\bmb@temp=\dimen260
+\bmb@dima=\dimen261
+\bmb@dimb=\dimen262
+\bmb@prevheight=\dimen263
 )
-\beamer@blockheadheight=\dimen271
+\beamer@blockheadheight=\dimen264
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseloca
-lstructure.sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+aselocalstructure.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerat
+e.sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks33
+\@enLab=\toks32
 )
-\beamer@bibiconwidth=\skip55
-\c@figure=\count311
-\c@table=\count312
-\abovecaptionskip=\skip56
-\belowcaptionskip=\skip57
+\c@figure=\count295
+\c@table=\count296
+\abovecaptionskip=\skip55
+\belowcaptionskip=\skip56
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenavi
-gation.sty
-\beamer@section@min@dim=\dimen272
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asenavigation.sty"
+\beamer@section@min@dim=\dimen265
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetheo
-rems.sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2021/04/20 v2.17j AMS math features
-\@mathmargin=\skip58
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asetheorems.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmat
+h.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip57
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstex
+t.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen
+.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks34
-\ex@=\dimen273
+\@emptytoks=\toks33
+\ex@=\dimen266
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy
+.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen274
+\pmbraise@=\dimen267
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn
+.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count313
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count314
-\leftroot@=\count315
-LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count316
-\DOTSCASE@=\count317
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box73
-\strutbox@=\box74
-\big@size=\dimen275
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count318
-\c@MaxMatrixCols=\count319
+\inf@bad=\count297
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count298
+\leftroot@=\count299
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count300
+\DOTSCASE@=\count301
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box71
+\strutbox@=\box72
+\big@size=\dimen268
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count302
+\c@MaxMatrixCols=\count303
 \dotsspace@=\muskip17
-\c@parentequation=\count320
-\dspbrk@lvl=\count321
-\tag@help=\toks35
-\row@=\count322
-\column@=\count323
-\maxfields@=\count324
-\andhelp@=\toks36
-\eqnshift@=\dimen276
-\alignsep@=\dimen277
-\tagshift@=\dimen278
-\tagwidth@=\dimen279
-\totwidth@=\dimen280
-\lineht@=\dimen281
-\@envbody=\toks37
-\multlinegap=\skip59
-\multlinetaggap=\skip60
-\mathdisplay@stack=\toks38
-LaTeX Info: Redefining \[ on input line 2923.
-LaTeX Info: Redefining \] on input line 2924.
+\c@parentequation=\count304
+\dspbrk@lvl=\count305
+\tag@help=\toks34
+\row@=\count306
+\column@=\count307
+\maxfields@=\count308
+\andhelp@=\toks35
+\eqnshift@=\dimen269
+\alignsep@=\dimen270
+\tagshift@=\dimen271
+\tagwidth@=\dimen272
+\totwidth@=\dimen273
+\lineht@=\dimen274
+\@envbody=\toks36
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks37
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.
+sty"
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks39
-\thm@bodyfont=\toks40
-\thm@headfont=\toks41
-\thm@notefont=\toks42
-\thm@headpunct=\toks43
-\thm@preskip=\skip61
-\thm@postskip=\skip62
-\thm@headsep=\skip63
-\dth@everypar=\toks44
+\thm@style=\toks38
+\thm@bodyfont=\toks39
+\thm@headfont=\toks40
+\thm@notefont=\toks41
+\thm@headpunct=\toks42
+\thm@preskip=\skip60
+\thm@postskip=\skip61
+\thm@headsep=\skip62
+\dth@everypar=\toks43
 )
-\c@theorem=\count325
+\c@theorem=\count309
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethem
-es.sty))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedef
-ault.sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthem
-edefault.sty)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthe
-medefault.sty)
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthe
-medefault.sty
-\beamer@dima=\dimen282
-\beamer@dimb=\dimen283
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerb
+asethemes.sty"))
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamert
+hemedefault.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerf
+ontthemedefault.sty")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerc
+olorthemedefault.sty")
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beameri
+nnerthemedefault.sty"
+\beamer@dima=\dimen275
+\beamer@dimb=\dimen276
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthe
-medefault.sty))) (beamerthemeAAUsidebar.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamero
+uterthemedefault.sty"))) (beamerthemeAAUsidebar.sty
 Package: beamerthemeAAUsidebar 2014/09/13 The AAU Sidebar Beamer Theme
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tik
-z.sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.st
-y
-Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendla
+yer\tikz.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer
+\pgf.sty"
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
-leshapes.code.tex
-File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box75
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\
+pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box73
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
-leplot.code.tex
-File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\
+pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
-comp-version-0-65.sty
-Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen284
-\pgf@nodesepend=\dimen285
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibil
+ity\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen277
+\pgf@nodesepend=\dimen278
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
-comp-version-1-18.sty
-Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibil
+ity\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.
-sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys
-.sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
-ys.code.tex))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
-de.tex))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffo
-r.code.tex
-Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\
+pgffor.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\
+pgfkeys.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgfkeys.code.tex"))
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfma
+th.sty"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+math.code.tex"))
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilitie
+s\pgffor.code.tex"
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
-de.tex)
-\pgffor@iter=\dimen286
-\pgffor@skip=\dimen287
-\pgffor@stack=\toks45
-\pgffor@toks=\toks46
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgf
+math.code.tex")
+\pgffor@iter=\dimen279
+\pgffor@skip=\dimen280
+\pgffor@stack=\toks44
+\pgffor@toks=\toks45
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz\tikz.code.tex
-Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz\tikz.code.tex"
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
-braryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count326
-\pgfplotmarksize=\dimen288
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librarie
+s\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count310
+\pgfplotmarksize=\dimen281
 )
-\tikz@lastx=\dimen289
-\tikz@lasty=\dimen290
-\tikz@lastxsaved=\dimen291
-\tikz@lastysaved=\dimen292
-\tikz@lastmovetox=\dimen293
-\tikz@lastmovetoy=\dimen294
-\tikzleveldistance=\dimen295
-\tikzsiblingdistance=\dimen296
-\tikz@figbox=\box76
-\tikz@figbox@bg=\box77
-\tikz@tempbox=\box78
-\tikz@tempbox@bg=\box79
-\tikztreelevel=\count327
-\tikznumberofchildren=\count328
-\tikznumberofcurrentchild=\count329
-\tikz@fig@count=\count330
+\tikz@lastx=\dimen282
+\tikz@lasty=\dimen283
+\tikz@lastxsaved=\dimen284
+\tikz@lastysaved=\dimen285
+\tikz@lastmovetox=\dimen286
+\tikz@lastmovetoy=\dimen287
+\tikzleveldistance=\dimen288
+\tikzsiblingdistance=\dimen289
+\tikz@figbox=\box74
+\tikz@figbox@bg=\box75
+\tikz@tempbox=\box76
+\tikz@tempbox@bg=\box77
+\tikztreelevel=\count311
+\tikznumberofchildren=\count312
+\tikznumberofcurrentchild=\count313
+\tikz@fig@count=\count314
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
-lematrix.code.tex
-File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count331
-\pgfmatrixcurrentcolumn=\count332
-\pgf@matrix@numberofcolumns=\count333
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\
+pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count315
+\pgfmatrixcurrentcolumn=\count316
+\pgf@matrix@numberofcolumns=\count317
 )
-\tikz@expandcount=\count334
+\tikz@expandcount=\count318
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer/lib
-raries\tikzlibraryexternal.code.tex
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzexternalshared.code.tex))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendla
+yer/libraries\tikzlibraryexternal.code.tex"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzexternalshared.code.tex"))
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty
+"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count335
-\calc@Bcount=\count336
-\calc@Adimen=\dimen297
-\calc@Bdimen=\dimen298
-\calc@Askip=\skip64
-\calc@Bskip=\skip65
+\calc@Acount=\count319
+\calc@Bcount=\count320
+\calc@Adimen=\dimen290
+\calc@Bdimen=\dimen291
+\calc@Askip=\skip63
+\calc@Bskip=\skip64
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count337
-\calc@Cskip=\skip66
-)
-(beamerinnerthemeAAUsidebar.sty
+\calc@Ccount=\count321
+\calc@Cskip=\skip65
+) (beamerinnerthemeAAUsidebar.sty
 Package: beamerinnerthemeAAUsidebar 2014/09/13 The AAU Sidebar Beamer Theme
-\beamer@plainpagewidth=\skip67
+\beamer@plainpagewidth=\skip66
 ) (beamerouterthemeAAUsidebar.sty
 Package: beamerouterthemeAAUsidebar 2014/09/13 The AAU Sidebar Beamer Theme
-\beamer@width=\skip68
-\beamer@height=\skip69
-\beamer@barwidth=\skip70
+\beamer@width=\skip67
+\beamer@height=\skip68
+\beamer@barwidth=\skip69
 )
 (beamercolorthemeAAUsidebar.sty
 Package: beamercolorthemeAAUsidebar 2014/09/13 The AAU Sidebar Beamer Theme
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks47
-\inpenc@posthook=\toks48
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.
+sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks46
+\inpenc@posthook=\toks47
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2021/07/22 3.63 The Babel package
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
+sty"
+Package: babel 2020/05/13 3.44 The Babel package
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
-File: babel.def 2021/07/22 3.63 Babel common definitions
-\babel@savecnt=\count338
-\U@D=\dimen299
-\l@unhyphenated=\language79
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
+def"
+File: babel.def 2020/05/13 3.44 Babel common definitions
+\babel@savecnt=\count322
+\U@D=\dimen292
+\l@babelnohyphens=\language79
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbab
+el.def")
 \bbl@readstream=\read3
 )
-LaTeX Info: Redefining \textlatin on input line 730.
-\bbl@dirlevel=\count339
+LaTeX Info: Redefining \textlatin on input line 674.
+\bbl@dirlevel=\count323
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.
+cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english
-.ldf
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\
+english.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 108.
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 108.
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.s
+ty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\multime
+dia.sty"
+Package: multimedia 2012/05/02 ver 0.02
+\mm@movie=\count324
+)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\helvet.
+sty"
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibraryshapes.code.tex
-File: tikzlibraryshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibraryshapes.code.tex"
+File: tikzlibraryshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibraryshapes.geometric.code.tex
-File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibraryshapes.geometric.code.tex"
+File: tikzlibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
-s\pgflibraryshapes.geometric.code.tex
-File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librarie
+s/shapes\pgflibraryshapes.geometric.code.tex"
+File: pgflibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibraryshapes.misc.code.tex
-File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibraryshapes.misc.code.tex"
+File: tikzlibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
-s\pgflibraryshapes.misc.code.tex
-File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librarie
+s/shapes\pgflibraryshapes.misc.code.tex"
+File: pgflibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibraryshapes.symbols.code.tex
-File: tikzlibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibraryshapes.symbols.code.tex"
+File: tikzlibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
-s\pgflibraryshapes.symbols.code.tex
-File: pgflibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librarie
+s/shapes\pgflibraryshapes.symbols.code.tex"
+File: pgflibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibraryshapes.arrows.code.tex
-File: tikzlibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibraryshapes.arrows.code.tex"
+File: tikzlibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
-s\pgflibraryshapes.arrows.code.tex
-File: pgflibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librarie
+s/shapes\pgflibraryshapes.arrows.code.tex"
+File: pgflibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibraryshapes.callouts.code.tex
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
-s\pgflibraryshapes.callouts.code.tex))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibraryshapes.multipart.code.tex
-File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibraryshapes.callouts.code.tex"
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librarie
+s/shapes\pgflibraryshapes.callouts.code.tex"))
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibraryshapes.multipart.code.tex"
+File: tikzlibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
-s\pgflibraryshapes.multipart.code.tex
-File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodepartlowerbox=\box80
-\pgfnodeparttwobox=\box81
-\pgfnodepartthreebox=\box82
-\pgfnodepartfourbox=\box83
-\pgfnodeparttwentybox=\box84
-\pgfnodepartnineteenbox=\box85
-\pgfnodeparteighteenbox=\box86
-\pgfnodepartseventeenbox=\box87
-\pgfnodepartsixteenbox=\box88
-\pgfnodepartfifteenbox=\box89
-\pgfnodepartfourteenbox=\box90
-\pgfnodepartthirteenbox=\box91
-\pgfnodeparttwelvebox=\box92
-\pgfnodepartelevenbox=\box93
-\pgfnodeparttenbox=\box94
-\pgfnodepartninebox=\box95
-\pgfnodeparteightbox=\box96
-\pgfnodepartsevenbox=\box97
-\pgfnodepartsixbox=\box98
-\pgfnodepartfivebox=\box99
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librarie
+s/shapes\pgflibraryshapes.multipart.code.tex"
+File: pgflibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodepartlowerbox=\box78
+\pgfnodeparttwobox=\box79
+\pgfnodepartthreebox=\box80
+\pgfnodepartfourbox=\box81
+\pgfnodeparttwentybox=\box82
+\pgfnodepartnineteenbox=\box83
+\pgfnodeparteighteenbox=\box84
+\pgfnodepartseventeenbox=\box85
+\pgfnodepartsixteenbox=\box86
+\pgfnodepartfifteenbox=\box87
+\pgfnodepartfourteenbox=\box88
+\pgfnodepartthirteenbox=\box89
+\pgfnodeparttwelvebox=\box90
+\pgfnodepartelevenbox=\box91
+\pgfnodeparttenbox=\box92
+\pgfnodepartninebox=\box93
+\pgfnodeparteightbox=\box94
+\pgfnodepartsevenbox=\box95
+\pgfnodepartsixbox=\box96
+\pgfnodepartfivebox=\box97
 )))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibraryarrows.code.tex
-File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
-braryarrows.code.tex
-File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\arrowsize=\dimen300
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/librarie
+s\pgflibraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\arrowsize=\dimen293
 ))
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibrarycalc.code.tex"
+File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 92
-.
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3ba
+ckend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count325
+\l__pdf_internal_box=\box98
+) (CA7ExamPresentation.aux
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
-File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+LaTeX Warning: Label `eq:NonLinearModelSimplified' multiply defined.
+
+
+LaTeX Warning: Label `eq:HuStabCondition' multiply defined.
+
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
-dftex.def
-File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count340
-\l__pdf_internal_box=\box100
-) (CA7ExamPresentation.aux)
 \openout1 = `CA7ExamPresentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 96
+.
 
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1phv.f
+d"
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1062,164 +1093,161 @@ LaTeX Font Info:    ... okay on input line 92.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
-mkii
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\su
+pp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count341
-\scratchdimen=\dimen301
-\scratchbox=\box101
-\nofMPsegments=\count342
-\nofMParguments=\count343
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count344
-\MPscratchDim=\dimen302
-\MPnumerator=\count345
-\makeMPintoPDFobject=\count346
-\everyMPtoPDFconversion=\toks50
+\scratchcounter=\count326
+\scratchdimen=\dimen294
+\scratchbox=\box99
+\nofMPsegments=\count327
+\nofMParguments=\count328
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen295
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
+\everyMPtoPDFconversion=\toks49
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
--base.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\e
+pstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
+) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box100
+Package hyperref Info: Link coloring OFF on input line 96.
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
-.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
-Package hyperref Info: Link coloring OFF on input line 92.
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\namer
+ef.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refco
+unt.sty"
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
-itlestring.sty
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestri
+ng\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count347
+\c@section@level=\count332
 )
-LaTeX Info: Redefining \ref on input line 92.
-LaTeX Info: Redefining \pageref on input line 92.
-LaTeX Info: Redefining \nameref on input line 92.
+LaTeX Info: Redefining \ref on input line 96.
+LaTeX Info: Redefining \pageref on input line 96.
+LaTeX Info: Redefining \nameref on input line 96.
  (CA7ExamPresentation.out) (CA7ExamPresentation.out)
 \@outlinefile=\write5
 \openout5 = `CA7ExamPresentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 92.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 96.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 92.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 96.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 92.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 92.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 96.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/phv/b/n on input line 92.
+(Font)                  OT1/cmr/bx/n --> T1/phv/b/n on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/phv/b/n on input line 92.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 92.
+(Font)                  OT1/cmr/bx/n --> T1/phv/b/n on input line 96.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 92.
+(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 92.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 92.
+(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 96.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 92.
+(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 92.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 92.
+(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 96.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 92.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 92.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 96.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 92.
+(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 96.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 92.
+(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 92.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/phv/b/n --> T1/phv/b/n on input line 92.
+(Font)                  T1/phv/b/n --> T1/phv/b/n on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 92.
+(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 92.
+(Font)                  T1/phv/m/it --> T1/phv/b/it on input line 96.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 92.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 96.
 
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
--basic-dictionary-English.dict
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\tra
+nslator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
--bibliography-dictionary-English.dict
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\tra
+nslator-bibliography-dictionary-English.dict"
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
--environment-dictionary-English.dict
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\tra
+nslator-environment-dictionary-English.dict"
 Dictionary: translator-environment-dictionary, Language: English 
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
--months-dictionary-English.dict
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\tra
+nslator-months-dictionary-English.dict"
 Dictionary: translator-months-dictionary, Language: English 
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
--numbers-dictionary-English.dict
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\tra
+nslator-numbers-dictionary-English.dict"
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator
--theorem-dictionary-English.dict
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\tra
+nslator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (CA7ExamPresentation.nav)
-<AAUgraphics/aau_logo_new_circle.pdf, id=49, 79.29625pt x 80.3pt>
+<AAUgraphics/aau_logo_new_circle.pdf, id=62, 79.29625pt x 80.3pt>
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 92.
+e 96.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 97.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 101
+.
 
-
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.
+fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 97.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 101
+.
 
-
-(C:\Users\Mathias\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+("C:\Users\Christian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.
+fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 97.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 101.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 97.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 101.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 97.
-<AAUgraphics/aau_waves.pdf, id=50, 845.1575pt x 598.235pt>
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 101.
+<AAUgraphics/aau_waves.pdf, id=63, 845.1575pt x 598.235pt>
 File: AAUgraphics/aau_waves.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_waves.pdf>
-Package pdftex.def Info: AAUgraphics/aau_waves.pdf  used on input line 97.
+Package pdftex.def Info: AAUgraphics/aau_waves.pdf  used on input line 101.
 (pdftex.def)             Requested size: 364.1973pt x 273.1467pt.
+ [1
 
-[1
-
-{C:/Users/Mathias/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./AAUgraphics
-/aau_waves.pdf, page is rotated 270 degrees> <./AAUgraphics/aau_logo_new.pdf>] 
-(CA7ExamPresentation.toc)
+{C:/Users/Christian/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./AAUgr
+aphics/aau_waves.pdf, page is rotated 270 degrees> <./AAUgraphics/aau_logo_new.
+pdf>] (CA7ExamPresentation.toc)
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 103.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 107.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
@@ -1258,15 +1286,20 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 103.
+e 107.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
 [2
 
  <./AAUgraphics/aau_logo_new_circle.pdf>]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 121.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 125.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 121.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 125.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
@@ -1305,15 +1338,15 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 121.
+e 125.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
 [3
 
 ]
-<Graphics/WDNModel.pdf, id=112, 573.34201pt x 524.35902pt>
+<Graphics/WDNModel.pdf, id=145, 573.34201pt x 524.35902pt>
 File: Graphics/WDNModel.pdf Graphic file (type pdf)
 <use Graphics/WDNModel.pdf>
-Package pdftex.def Info: Graphics/WDNModel.pdf  used on input line 136.
+Package pdftex.def Info: Graphics/WDNModel.pdf  used on input line 140.
 (pdftex.def)             Requested size: 139.41856pt x 127.50494pt.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -1350,14 +1383,24 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
 
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 136.
+e 140.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
 [4
 
- <./Graphics/WDNModel.pdf>]
+ <./Graphics/WDNModel.pdf>] (Topics/SystemModel/Model.tex
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
@@ -1395,19 +1438,553 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 146.
+e 12.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
 [5
 
-] (Topics/SlowDynamicsLinearisation/SlowDynamicsLinearisation.tex
-<Topics/SlowDynamicsLinearisation/Graphics/Tank_sketch.png, id=152, 691.98524pt
- x 545.6385pt>
+]
+<Topics/SystemModel/Graphics/Graph.png, id=195, 1065.9825pt x 1182.66844pt>
+File: Topics/SystemModel/Graphics/Graph.png Graphic file (type png)
+<use Topics/SystemModel/Graphics/Graph.png>
+Package pdftex.def Info: Topics/SystemModel/Graphics/Graph.png  used on input l
+ine 27.
+(pdftex.def)             Requested size: 111.53314pt x 123.74171pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 27.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[6
+
+ <./Topics/SystemModel/Graphics/Graph.png>]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 49.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[7
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 83.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[8
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 111.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[9
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 127.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[10
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 153.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[11
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 174.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[12
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 185.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[13
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 204.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[14
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 224.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[15
+
+]
+Overfull \hbox (20.99115pt too wide) detected at line 265
+[]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 265.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[16
+
+]) (Topics/SlowDynamicsLinearisation/SlowDynamicsLinearisation.tex
+<Topics/SlowDynamicsLinearisation/Graphics/Tank_sketch.png, id=442, 694.39426pt
+ x 546.843pt>
 File: Topics/SlowDynamicsLinearisation/Graphics/Tank_sketch.png Graphic file (t
 ype png)
 <use Topics/SlowDynamicsLinearisation/Graphics/Tank_sketch.png>
 Package pdftex.def Info: Topics/SlowDynamicsLinearisation/Graphics/Tank_sketch.
 png  used on input line 34.
-(pdftex.def)             Requested size: 139.41856pt x 109.93336pt.
+(pdftex.def)             Requested size: 139.41856pt x 109.7922pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
@@ -1448,10 +2025,15 @@ File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
 e 34.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[6
+[17
 
  <./Topics/SlowDynamicsLinearisation/Graphics/Tank_sketch.png>]
 (Topics/SlowDynamicsLinearisation/TikzFigures/TikzGraphNetwork.tex)
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
@@ -1491,9 +2073,14 @@ File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
 e 44.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[7
+[18
 
 ]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
@@ -1533,9 +2120,23 @@ File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
 e 74.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[8
+[19
 
 ]
+<Topics/SlowDynamicsLinearisation/Graphics/Linearisation_pic.png, id=506, 526.9
+6875pt x 394.47375pt>
+File: Topics/SlowDynamicsLinearisation/Graphics/Linearisation_pic.png Graphic f
+ile (type png)
+<use Topics/SlowDynamicsLinearisation/Graphics/Linearisation_pic.png>
+Package pdftex.def Info: Topics/SlowDynamicsLinearisation/Graphics/Linearisatio
+n_pic.png  used on input line 95.
+(pdftex.def)             Requested size: 167.30397pt x 125.24101pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
@@ -1573,11 +2174,22 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 98.
+e 95.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[9
+[20
 
-]
+ <./Topics/SlowDynamicsLinearisation/Graphics/Linearisation_pic.png (PNG copy)>
+]pdfTeX warning (ext4): destination with the same identifier (name{eq:NonLinear
+ModelSimplified}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.117 \end{frame}
+                 
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
@@ -1615,11 +2227,16 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 112.
+e 117.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[10
+[21
 
 ]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
@@ -1657,51 +2274,9 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 124.
+e 131.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[11
-
-]) (Topics/OptimalControl/OptimalControl.tex
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
-<use AAUgraphics/aau_logo_new_circle.pdf>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 16.
-(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[12
+[22
 
 ]
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -1709,169 +2284,6 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
  []
 
 
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
-<use AAUgraphics/aau_logo_new_circle.pdf>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 64.
-(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[13
-
-]
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
-<use AAUgraphics/aau_logo_new_circle.pdf>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 74.
-(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[14
-
-]
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
-<use AAUgraphics/aau_logo_new_circle.pdf>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 88.
-(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[15
-
-]
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
-<use AAUgraphics/aau_logo_new_circle.pdf>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 112.
-(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[16
-
-]
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
@@ -1911,11 +2323,12 @@ File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
 e 143.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[17
+[23
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
-[]\T1/phv/m/n/14.4 Exogenous in-put disturbance-
+]) (Topics/ControlStructure/ControlStructure.tex
+(Topics/ControlStructure/TikzFigures/TikzControlStructure.tex)
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
  []
 
 
@@ -1956,9 +2369,562 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 154.
+e 10.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[18
+[24
+
+]
+<Topics/ControlStructure/Graphics/PumpMagPlot.png, id=610, 717.27975pt x 629.47
+17pt>
+File: Topics/ControlStructure/Graphics/PumpMagPlot.png Graphic file (type png)
+<use Topics/ControlStructure/Graphics/PumpMagPlot.png>
+Package pdftex.def Info: Topics/ControlStructure/Graphics/PumpMagPlot.png  used
+ on input line 18.
+(pdftex.def)             Requested size: 209.12784pt x 183.52182pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 18.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[25
+
+ <./Topics/ControlStructure/Graphics/PumpMagPlot.png (PNG copy)>]
+<Topics/ControlStructure/Graphics/PZmap_CL_zoom.png, id=633, 698.1282pt x 616.4
+631pt>
+File: Topics/ControlStructure/Graphics/PZmap_CL_zoom.png Graphic file (type png
+)
+<use Topics/ControlStructure/Graphics/PZmap_CL_zoom.png>
+Package pdftex.def Info: Topics/ControlStructure/Graphics/PZmap_CL_zoom.png  us
+ed on input line 27.
+(pdftex.def)             Requested size: 209.12784pt x 184.65816pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 27.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[26
+
+ <./Topics/ControlStructure/Graphics/PZmap_CL_zoom.png (PNG copy)>]
+<Topics/ControlStructure/Graphics/RootLocus_Pade2.png, id=655, 363.2772pt x 432
+.1746pt>
+File: Topics/ControlStructure/Graphics/RootLocus_Pade2.png Graphic file (type p
+ng)
+<use Topics/ControlStructure/Graphics/RootLocus_Pade2.png>
+Package pdftex.def Info: Topics/ControlStructure/Graphics/RootLocus_Pade2.png  
+used on input line 49.
+(pdftex.def)             Requested size: 167.30354pt x 136.57095pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 49.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[27
+
+ <./Topics/ControlStructure/Graphics/RootLocus_Pade2.png (PNG copy)>]
+<Topics/ControlStructure/Graphics/StepResponse_Pade2.png, id=678, 693.792pt x 6
+13.21095pt>
+File: Topics/ControlStructure/Graphics/StepResponse_Pade2.png Graphic file (typ
+e png)
+<use Topics/ControlStructure/Graphics/StepResponse_Pade2.png>
+Package pdftex.def Info: Topics/ControlStructure/Graphics/StepResponse_Pade2.pn
+g  used on input line 59.
+(pdftex.def)             Requested size: 167.29688pt x 170.71542pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 59.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[28
+
+ <./Topics/ControlStructure/Graphics/StepResponse_Pade2.png (PNG copy)>])
+(Topics/OptimalControl/OptimalControl.tex
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 16.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[29
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 64.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[30
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 81.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[31
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 95.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[32
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 119.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[33
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 137.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[34
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 148.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[35
 
 ]) (Topics/KalmanEstimator/KF.tex
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -1995,71 +2961,79 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
 
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 9.
+e 7.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[19
+[36
 
 ]
-<Topics/KalmanEstimator/Graphics/ConsumptionPattern.pdf, id=393, 358.33875pt x 
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 25.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[37
+
+]
+<Topics/KalmanEstimator/Graphics/ConsumptionPattern.pdf, id=894, 358.33875pt x 
 304.13625pt>
 File: Topics/KalmanEstimator/Graphics/ConsumptionPattern.pdf Graphic file (type
  pdf)
 <use Topics/KalmanEstimator/Graphics/ConsumptionPattern.pdf>
 Package pdftex.def Info: Topics/KalmanEstimator/Graphics/ConsumptionPattern.pdf
-  used on input line 21.
+  used on input line 39.
 (pdftex.def)             Requested size: 167.30397pt x 141.99733pt.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
 
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
-<use AAUgraphics/aau_logo_new_circle.pdf>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 21.
-(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[20
-
- <./Topics/KalmanEstimator/Graphics/ConsumptionPattern.pdf>]
-<Topics/KalmanEstimator/Graphics/FFT.pdf, id=430, 352.31625pt x 296.10625pt>
-File: Topics/KalmanEstimator/Graphics/FFT.pdf Graphic file (type pdf)
-<use Topics/KalmanEstimator/Graphics/FFT.pdf>
-Package pdftex.def Info: Topics/KalmanEstimator/Graphics/FFT.pdf  used on input
- line 39.
-(pdftex.def)             Requested size: 167.30397pt x 140.61125pt.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
@@ -2100,7 +3074,61 @@ File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
 e 39.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[21
+[38
+
+ <./Topics/KalmanEstimator/Graphics/ConsumptionPattern.pdf>]
+<Topics/KalmanEstimator/Graphics/FFT.pdf, id=936, 352.31625pt x 296.10625pt>
+File: Topics/KalmanEstimator/Graphics/FFT.pdf Graphic file (type pdf)
+<use Topics/KalmanEstimator/Graphics/FFT.pdf>
+Package pdftex.def Info: Topics/KalmanEstimator/Graphics/FFT.pdf  used on input
+ line 57.
+(pdftex.def)             Requested size: 167.30397pt x 140.61125pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 57.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[39
 
  <./Topics/KalmanEstimator/Graphics/FFT.pdf>]
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -2137,12 +3165,17 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
 
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 65.
+e 83.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[22
+[40
 
 ]
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -2179,20 +3212,25 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
 
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 105.
+e 119.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[23
+[41
 
 ]
-<Topics/KalmanEstimator/Graphics/Comparisson.pdf, id=500, 366.36874pt x 304.136
-25pt>
+<Topics/KalmanEstimator/Graphics/Comparisson.pdf, id=1021, 366.36874pt x 304.13
+625pt>
 File: Topics/KalmanEstimator/Graphics/Comparisson.pdf Graphic file (type pdf)
 <use Topics/KalmanEstimator/Graphics/Comparisson.pdf>
 Package pdftex.def Info: Topics/KalmanEstimator/Graphics/Comparisson.pdf  used 
-on input line 121.
+on input line 136.
 (pdftex.def)             Requested size: 167.30397pt x 138.88805pt.
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -2229,12 +3267,17 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
 
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 121.
+e 136.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[24
+[42
 
  <./Topics/KalmanEstimator/Graphics/Comparisson.pdf>]
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
@@ -2271,43 +3314,6 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
  []
 
-File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
-<use AAUgraphics/aau_logo_new_circle.pdf>
-Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 128.
-(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[25
-
-]) (CA7ExamPresentation.bbl)
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
-
-Overfull \hbox (1.05998pt too wide) has occurred while \output is active
-[][][] [][]
- []
-
 
 Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 [][][] [][]
@@ -2316,16 +3322,688 @@ Overfull \hbox (1.05998pt too wide) has occurred while \output is active
 File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_logo_new_circle.pdf>
 Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
-e 191.
+e 147.
 (pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
-[26
+[43
+
+]) (Topics/NetworkEffects/NetworkEffects.tex
+(Topics/NetworkEffects/TikzFigures/TikzControlStructure.tex)
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 24.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[44
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 42.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[45
+
+pdfTeX warning (ext4): destination with the same identifier (name{eq:HuStabCond
+ition}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.42 \end{frame}
+                	]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 62.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[46
+
+]
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 78.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[47
+
+]) (Topics/Results/Results.tex
+<Graphics/SWIL.pdf, id=1169, 4047.12pt x 3035.34pt>
+File: Graphics/SWIL.pdf Graphic file (type pdf)
+<use Graphics/SWIL.pdf>
+Package pdftex.def Info: Graphics/SWIL.pdf  used on input line 6.
+(pdftex.def)             Requested size: 278.83713pt x 209.11447pt.
+
+Overfull \vbox (9.46785pt too high) detected at line 6
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 6.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[48
+
+ <./Graphics/SWIL.pdf>]
+<Graphics/OuterLoop.pdf, id=1190, 1175.39125pt x 649.42625pt>
+File: Graphics/OuterLoop.pdf Graphic file (type pdf)
+<use Graphics/OuterLoop.pdf>
+Package pdftex.def Info: Graphics/OuterLoop.pdf  used on input line 16.
+(pdftex.def)             Requested size: 278.83713pt x 154.06197pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 16.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[49
+
+ <./Graphics/OuterLoop.pdf>]
+<Graphics/InnerLoop.pdf, id=1242, 1166.3575pt x 649.42625pt>
+File: Graphics/InnerLoop.pdf Graphic file (type pdf)
+<use Graphics/InnerLoop.pdf>
+Package pdftex.def Info: Graphics/InnerLoop.pdf  used on input line 23.
+(pdftex.def)             Requested size: 278.83713pt x 155.2511pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 23.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[50
+
+ <./Graphics/InnerLoop.pdf>]
+<Graphics/DisturbanceEstimation.pdf, id=1284, 1165.35374pt x 649.42625pt>
+File: Graphics/DisturbanceEstimation.pdf Graphic file (type pdf)
+<use Graphics/DisturbanceEstimation.pdf>
+Package pdftex.def Info: Graphics/DisturbanceEstimation.pdf  used on input line
+ 30.
+(pdftex.def)             Requested size: 278.83713pt x 155.38983pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 30.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[51
+
+ <./Graphics/DisturbanceEstimation.pdf>]
+<Graphics/LeakageDetection.pdf, id=1335, 793.96625pt x 432.61626pt>
+File: Graphics/LeakageDetection.pdf Graphic file (type pdf)
+<use Graphics/LeakageDetection.pdf>
+Package pdftex.def Info: Graphics/LeakageDetection.pdf  used on input line 37.
+(pdftex.def)             Requested size: 278.83713pt x 151.93285pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 37.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[52
+
+ <./Graphics/LeakageDetection.pdf>]
+<Graphics/OuterLoopBad.pdf, id=1377, 1175.39125pt x 649.42625pt>
+File: Graphics/OuterLoopBad.pdf Graphic file (type pdf)
+<use Graphics/OuterLoopBad.pdf>
+Package pdftex.def Info: Graphics/OuterLoopBad.pdf  used on input line 46.
+(pdftex.def)             Requested size: 278.83713pt x 154.06197pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 46.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[53
+
+ <./Graphics/OuterLoopBad.pdf>]
+<Graphics/InnerLoopBad.pdf, id=1428, 1160.335pt x 649.42625pt>
+File: Graphics/InnerLoopBad.pdf Graphic file (type pdf)
+<use Graphics/InnerLoopBad.pdf>
+Package pdftex.def Info: Graphics/InnerLoopBad.pdf  used on input line 53.
+(pdftex.def)             Requested size: 278.83713pt x 156.06367pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 53.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[54
+
+ <./Graphics/InnerLoopBad.pdf>]
+<Graphics/DisturbanceEstimationBad.pdf, id=1479, 1165.35374pt x 649.42625pt>
+File: Graphics/DisturbanceEstimationBad.pdf Graphic file (type pdf)
+<use Graphics/DisturbanceEstimationBad.pdf>
+Package pdftex.def Info: Graphics/DisturbanceEstimationBad.pdf  used on input l
+ine 60.
+(pdftex.def)             Requested size: 278.83713pt x 155.38983pt.
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 60.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[55
+
+ <./Graphics/DisturbanceEstimationBad.pdf>]) (CA7ExamPresentation.bbl)
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+
+Overfull \hbox (1.05998pt too wide) has occurred while \output is active
+[][][] [][]
+ []
+
+File: AAUgraphics/aau_logo_new_circle.pdf Graphic file (type pdf)
+<use AAUgraphics/aau_logo_new_circle.pdf>
+Package pdftex.def Info: AAUgraphics/aau_logo_new_circle.pdf  used on input lin
+e 195.
+(pdftex.def)             Requested size: 40.49973pt x 41.0137pt.
+[56
 
 ]
 File: AAUgraphics/aau_waves.pdf Graphic file (type pdf)
 <use AAUgraphics/aau_waves.pdf>
-Package pdftex.def Info: AAUgraphics/aau_waves.pdf  used on input line 196.
+Package pdftex.def Info: AAUgraphics/aau_waves.pdf  used on input line 200.
 (pdftex.def)             Requested size: 364.1973pt x 273.1467pt.
- [27
+ [57
 
 ]
 \tf@nav=\write6
@@ -2337,37 +4015,47 @@ Package pdftex.def Info: AAUgraphics/aau_waves.pdf  used on input line 196.
 \tf@snm=\write8
 \openout8 = `CA7ExamPresentation.snm'.
 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 203.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 203.
  (CA7ExamPresentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 203.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 203.
 Package rerunfilecheck Info: File `CA7ExamPresentation.out' has not changed.
-(rerunfilecheck)             Checksum: DCD8A737DAB51DF42FED05B59BAA794F;1256.
+(rerunfilecheck)             Checksum: BEA49DEC6BADD05DB126B15CCAAA6AF6;716.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 28628 strings out of 478927
- 586176 string characters out of 2851587
- 922549 words of memory out of 3000000
- 45746 multiletter control sequences out of 15000+600000
- 456024 words of font info for 86 fonts, out of 8000000 for 9000
+ 26238 strings out of 480797
+ 554317 string characters out of 2893699
+ 831159 words of memory out of 3000000
+ 41375 multiletter control sequences out of 15000+200000
+ 588198 words of font info for 85 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,22n,124p,575b,1188s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/Mathias/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<
-C:/Users/Mathias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mex10.pfb><C:/Users/Mathias/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmmi10.pfb><C:/Users/Mathias/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Mathias/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Mathias/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Mathias/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Mathia
-s/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Us
-ers/Mathias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.
-pfb><C:/Users/Mathias/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/symbols/msam10.pfb><C:/Users/Mathias/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/symbols/msbm10.pfb><C:/Users/Mathias/AppData/Local/Programs/Mi
-KTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Mathias/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Mathias/AppData/Local/P
-rograms/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on CA7ExamPresentation.pdf (27 pages, 641030 bytes).
+ 60i,22n,78p,798b,1190s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Christian/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r
+.enc}<C:/Users/Christian/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmex10.pfb><C:/Users/Christian/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Christian/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Christian/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Use
+rs/Christian/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mss8.pfb><C:/Users/Christian/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmss9.pfb><C:/Users/Christian/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Christian/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Christian/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/U
+sers/Christian/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/sy
+mbols/msam10.pfb><C:/Users/Christian/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Christian/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Christian/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Christia
+n/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on CA7ExamPresentation.pdf (57 pages, 5371053 bytes).
 PDF statistics:
- 648 PDF objects out of 1000 (max. 8388607)
- 90 named destinations out of 1000 (max. 500000)
- 155 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1642 PDF objects out of 1728 (max. 8388607)
+ 183 named destinations out of 1000 (max. 500000)
+ 253 words of extra memory for PDF output out of 10000 (max. 10000000)
 

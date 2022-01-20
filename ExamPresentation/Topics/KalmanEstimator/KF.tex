@@ -8,11 +8,11 @@
 
 %%%%%%%%%%%%%%%%%
 
-\begin{frame}{The Kalman filter}
+\begin{frame}{Disturbance Estimation}{The Kalman Filter}
  	\begin{itemize}
- 		\item Need a linear model of consumer for the Kalman Filter
+ 		\item Need a linear model of consumer behaviour for the Kalman Filter
  		\item Under normal circumstances the Kalman gain is found recursively.
- 		\item In the case of linear time invariant system, with covariances assumed to be constant over time, the Kalman Filter itself becomes time invariant $\rightarrow$ constant Kalman gain.\\
+ 		\item In the case of LTI system the Kalman filter itself becomes time invariant $\rightarrow$ constant Kalman gain.\\
  		ARE:
  		\begin{equation}
  			\begin{split}\label{eq:ss_kalman_udledning4}
@@ -26,9 +26,9 @@
 
 %%%%%%%%%%%%%%%%%
 
-\begin{frame}{Water consumption data}
+\begin{frame}{Disturbance Estimation}{Water Consumption Data}
 	\begin{itemize}
-		\item Data of consumption pattern over a 35 day period obtained by CSK.  
+		\item Data of consumption pattern over a 35 day period courtesy of CSK and Grundfos.  
 	\end{itemize}
 		 \begin{figure}[h!]
 			\centering
@@ -40,7 +40,7 @@
 
 %%%%%%%%%%%%%%%%%
 	
-\begin{frame}{FFT of consumption pattern}
+\begin{frame}{Disturbance Estimation}{FFT of Consumption Pattern}
 	\begin{itemize}
 		\item Frequency analysis of the data. 
 	\end{itemize}
@@ -48,20 +48,19 @@
 	 \begin{figure}[h!]
 		\centering
 		\includegraphics[width=0.6\textwidth]{Topics/KalmanEstimator/Graphics/FFT.pdf}
-		\caption{Consumption pattern over two days}
+		\caption{Amplitude and phase content of full consumption pattern}
 		\label{fig:FFT_Consumption_Patter}
 	\end{figure}
 	
-	\begin{itemize}
-		\item Highest frequency contents at periods: DC, 24.05h, 12.03h, 8.02h and 5.99h. 
-	\end{itemize}
+ We want a sparse representation. Largest frequency components are: DC, $24.05 \text{hr}$, $12.03 \text{hr}$, $8.02 \text{hr}$ and $5.99 \text{hr}$.
+
 \end{frame}
 
 %%%%%%%%%%%%%%%%%
-\begin{frame}{Approximation of consumption}
+\begin{frame}{Disturbance Estimation}{Approximation of Consumption}
 		
 	\begin{itemize}
-		\item Fourth order Fourier approximation of consumer demand:
+		\item Fourth-order Fourier approximation of consumer demand:
 	\end{itemize}
 		
 	\begin{equation} \label{eq:4th_order_approx}
@@ -72,7 +71,7 @@
 	\end{equation}
 
 	\begin{itemize}
-		\item We wish to model \ref{eq:4th_order_approx} as a state space model:
+		\item We wish to model equation \ref{eq:4th_order_approx} as a state-space model:
 	\end{itemize}
 		
 		\begin{equation*}
@@ -85,7 +84,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{frame}{State space representation}
+\begin{frame}{Disturbance Estimation}{State-space Representation}
 	\begin{itemize}
 		\item Need to represent the evolution of the "states" in the approximation as a linear combination of states.
 		\item This can not be achieved using the current states.   
@@ -110,24 +109,18 @@
 \end{equation}
 
 \begin{equation}
-	y = \begin{bmatrix} 1 & 1 & 0 & 1 & 0 \end{bmatrix} 
-	\begin{bmatrix}
-		k_0 \\
-		k_1 cos(\omega_1 t) \\
-		k_1 sin(\omega_1 t) \\
-		k_2 cos(\omega_2 t) \\
-		k_2 sin(\omega_2 t) 
-	\end{bmatrix}
+	C = \begin{bmatrix} 1 & 1 & 0 & 1 & 0 \end{bmatrix}, \quad 
+	\dot{x} = \begin{bmatrix}0 \\ -k_1\omega_1sin(\omega_1 t) \\ k_1\omega_1 cos(\omega_1 t) \\ -k_2\omega_2sin(\omega_2 t) \\ k_2\omega_2 cos(\omega_2 t)  \end{bmatrix} 
 \end{equation}
 
 	\begin{itemize}
-	\item Fourth order doesn't fit the page..
+	\item Fourth order doesn't fit the page!
 \end{itemize}
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{frame}{Model vs. data}
+\begin{frame}{Disturbance Estimation}{Model vs. Data}
 	\begin{itemize}
 			\item The model compared to the real data - shown over 2 days. 
 	\end{itemize}
@@ -144,10 +137,10 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{frame}{The Kalman Filter}
+\begin{frame}{Disturbance Estimation}{Kalman Filter Design}
 	\textbf{Considerations when designing the KF.}
 	\begin{itemize}
-		\item in practice the Kalman gain is found using lqr in matlab.
+		\item In practice the Kalman gain is found using lqr in matlab.
 		\item Stiffness of the filter is decided by Q-R ratio.
 		\item Big R means uncertainty concerning observation and that we trust model much $\rightarrow$ stiff filter.
 	\end{itemize}
