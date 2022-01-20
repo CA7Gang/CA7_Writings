@@ -129,7 +129,7 @@ Whether a node is open to atmosphere or not, or connected to a tank, can be desc
 
 
 
-\begin{frame}{Modelling of Water Distribution Networks}{Pipe model}
+\begin{frame}{Modelling of Water Distribution Networks}{Pipe Model}
 The pressure drop across a pipe is defined as:
 
 	\begin{equation}
@@ -154,15 +154,15 @@ where:
 
 
 
-\begin{frame}{Modelling of Water Distribution Networks}{Valve model}
+\begin{frame}{Modelling of Water Distribution Networks}{Valve Model}
 	The pressure drop across a valve is defined as:
 	\begin{equation}\label{eq:ValvePressure}
-		\Delta p_{k} = \mu(q,OD) = \frac{1}{K_{valve}(\Theta)^2} \cdot |q|\cdot q 
+		\Delta p_{k} = \mu(q,\Theta) = \frac{1}{K_{valve}(\Theta)^2} \cdot |q|\cdot q 
 	\end{equation}
 	
-	where OD is the opening degree of the valve.\\
+	where $\Theta$ is the opening degree of the valve.\\
 	
-	Deriviation:
+	Derivation:
 	
 	\begin{equation}\label{eq:HydrodynamicRatio}
 		\frac{\Delta p_1}{q_1^2} = \frac{\Delta p_2}{q_2^2} 	\Leftrightarrow
@@ -174,7 +174,7 @@ where:
 \end{frame}
 
 
-\begin{frame}{Modelling of Water Distribution Networks}{Pump model}
+\begin{frame}{Modelling of Water Distribution Networks}{Pump Model}
 	The pressure drop across a pump is defined as:
 	\begin{equation}\label{eq:PumpPressure}
 		\Delta p_{k} =   a_0\cdot \omega^2 +  a_1\cdot \omega \cdot q -a_2\cdot |q|\cdot q
@@ -224,7 +224,7 @@ where:
 \end{frame}
 
 
-\begin{frame}{Modelling of Water Distribution Networks}{System model}
+\begin{frame}{Modelling of Water Distribution Networks}{System Model}
 	Non linear differential equation:
 	\begin{equation}
 		\Phi\mathcal{J}\Phi^T \dot{q} = -\Phi\Big(\lambda(q_n)+\mu(q_n)+\alpha(q_n)\Big) + \Psi(\bar{h}-\mathbf{1}h_0) + \mathcal{I}(p_{\tau}-\mathbf{1}p_0)
