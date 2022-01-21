@@ -24,6 +24,21 @@
 \bibitem{Rathore930}
 S.~S. Rathore, ``{Optimal Control in Water Distribution Network},'' 2019.
 
+\bibitem{Pannocchia2015a}
+G.~Pannocchia, M.~Gabiccini, and A.~Artoni, ``{Offset-free MPC explained:
+  Novelties, subtleties, and applications},'' \emph{IFAC-PapersOnLine},
+  vol.~48, no.~23, pp. 342--351, jan 2015.
+
+\bibitem{Singh2017}
+A.~K. Singh and B.~C. Pal, ``{An extended linear quadratic regulator for LTI
+  systems with exogenous inputs},'' \emph{Automatica}, vol.~76, pp. 10--16, feb
+  2017.
+
+\bibitem{Sheth2007}
+A.~Sheth, S.~Nedevschi, R.~Patra, S.~Surana, E.~Brewer, and L.~Subramanian,
+  ``{Packet loss characterization in wifi-based long distance networks},''
+  \emph{Proceedings - IEEE INFOCOM}, pp. 312--320, 2007.
+
 \bibitem{Hu2007}
 S.~Hu and W.~Y. Yan, ``{Stability robustness of networked control systems with
   respect to packet loss},'' \emph{Automatica}, vol.~43, no.~7, pp. 1243--1248,

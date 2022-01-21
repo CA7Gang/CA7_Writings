@@ -127,19 +127,21 @@
 \begin{frame}{Velocity-Form LQR}{Feedback Law}
 	Control input applied at time k is:
 	\begin{equation}\label{eq:ActualControlApplied}
-		u^*(k) = \sum_{i=1}^{k} \Delta u^*(i)
+		u^*(k) = \sum_{i=1}^{k} \Delta u^*(i) = \sum_{i=1}^{k} \tilde{K}\zeta^*(i)
 	\end{equation}
 
 	with
 	\begin{equation}
 		\tilde{K} = (\tilde{B}^TP\tilde{B}-R)^{-1}(\tilde{B}^TP\tilde{A})
 	\end{equation}
+
+	See e.g. Pannocchia et al. \cite{Pannocchia2015a} for details.
 \end{frame}
 
 
 \begin{frame}{Velocity-Form LQR}{Disturbance-accommodating VF-LQR}
 
-	Standard LQR does not accommodate exogenous inputs (such as the the model of the consumer demand flows) but can be modified to do so:
+	Standard LQR does not accommodate exogenous inputs (such as the the model of the consumer demand flows) but can be modified to do so \cite{Singh2017}:
 	\begin{equation}
 		u(k) = \sum_{i=1}^{k} \Delta{u}^*(i) - B^\dagger \mathcal{B}\delta(i)
 	\end{equation}
